@@ -1,0 +1,137 @@
+.tocContainer {
+  padding: 0.75rem 0.5rem 0.75rem 0.75rem;
+  border-radius: 10px;
+  background-color: transparent;
+  border: none;
+  font-size: 0.9rem;
+  position: sticky;
+  top: calc(var(--ifm-navbar-height, 3.5rem) + 4rem);
+  margin-top: 2rem;
+  align-self: flex-start;
+  /* Ensure the TOC column visually stretches to the bottom of the viewport */
+  min-height: calc(100vh - var(--ifm-navbar-height, 3.5rem) - 1.5rem);
+}
+
+.tocHeader {
+  display: flex;
+  align-items: center;
+  justify-content: space-between;
+  gap: 0.5rem;
+  margin-bottom: 0.25rem;
+}
+
+.tocTitle {
+  font-size: 0.8rem;
+  font-weight: 600;
+  text-transform: uppercase;
+  letter-spacing: 0.08em;
+  color: #6b7280;
+}
+
+.tocBody {
+  margin-top: 0.25rem;
+  /* Make the inner list scrollable within the full-height panel */
+  max-height: calc(100vh - var(--ifm-navbar-height, 3.5rem) - 3.25rem);
+  overflow-y: auto;
+}
+
+/* Hidden state: only the small "Show Table of Contents" button is visible */
+.tocHidden {
+  display: flex;
+  justify-content: flex-start;
+  align-items: flex-start;
+}
+
+.tocShowButton {
+  display: inline-flex;
+  align-items: center;
+  gap: 0.4rem;
+  font-size: 0.75rem;
+  padding: 0.35rem 0.9rem;
+  border-radius: 999px;
+  border: 1px solid rgba(148, 163, 184, 0.6);
+  background: radial-gradient(circle at 0% 0%, rgba(148, 163, 184, 0.18), transparent 55%);
+  color: #e5e7eb;
+  cursor: pointer;
+  white-space: nowrap;
+  box-shadow: 0 6px 18px rgba(15, 23, 42, 0.55);
+  backdrop-filter: blur(8px);
+}
+
+.tocShowButton::before {
+  content: '+';
+  display: inline-flex;
+  align-items: center;
+  justify-content: center;
+  width: 1.1rem;
+  height: 1.1rem;
+  border-radius: 999px;
+  background-color: rgba(15, 23, 42, 0.9);
+  border: 1px solid rgba(148, 163, 184, 0.9);
+  font-size: 0.7rem;
+  font-weight: 700;
+}
+
+.tocShowButton:hover {
+  border-color: rgba(209, 213, 219, 0.9);
+  box-shadow: 0 8px 24px rgba(15, 23, 42, 0.7);
+  transform: translateY(-1px);
+}
+
+[data-theme='dark'] .tocShowButton {
+  border-color: rgba(148, 163, 184, 0.7);
+  background: radial-gradient(circle at 0% 0%, rgba(51, 65, 85, 0.9), rgba(15, 23, 42, 0.98));
+  color: #e5e7eb;
+}
+
+[data-theme='dark'] .tocShowButton::before {
+  background-color: rgba(15, 23, 42, 0.9);
+  border-color: rgba(148, 163, 184, 0.9);
+}
+
+[data-theme='dark'] .tocShowButton:hover {
+  border-color: rgba(209, 213, 219, 0.95);
+  background: radial-gradient(circle at 0% 0%, rgba(71, 85, 105, 1), rgba(15, 23, 42, 1));
+}
+
+/* Visible state: subtle slide / fade-in animation */
+.tocVisible {
+  animation: toc-slide-in 0.2s ease-out;
+}
+
+.tocHideButton {
+  font-size: 0.72rem;
+  padding: 0.15rem 0.6rem;
+  border-radius: 999px;
+  border: 1px solid #e5e7eb;
+  background-color: transparent;
+  color: #6b7280;
+  cursor: pointer;
+}
+
+.tocHideButton:hover {
+  background-color: #f3f4f6;
+  border-color: #d1d5db;
+}
+
+[data-theme='dark'] .tocHideButton {
+  border-color: #374151;
+  color: #9ca3af;
+}
+
+[data-theme='dark'] .tocHideButton:hover {
+  background-color: #111827;
+  border-color: #4b5563;
+}
+
+@keyframes toc-slide-in {
+  from {
+    opacity: 0;
+    transform: translateX(8px);
+  }
+  to {
+    opacity: 1;
+    transform: translateX(0);
+  }
+}
+

@@ -1,0 +1,411 @@
+/* Right Drawer - Push Content Layout (No Overlay) */
+
+/* Apply margin-right to main wrapper to push content left when drawer opens */
+/* This creates space for the drawer without affecting body/html layout calculations */
+body.drawer-open .main-wrapper {
+  margin-right: 0 !important;
+  padding-right: 0 !important;
+  box-sizing: border-box !important;
+  transition: margin-right 0.3s cubic-bezier(0.16, 1, 0.3, 1) !important;
+}
+
+/* Allow docs container to stretch so content sits close to the drawer */
+body.drawer-open .docMainContainer,
+body.drawer-open .container {
+  max-width: none !important;
+  width: 100% !important;
+  padding-left: 0 !important;
+  padding-right: 0 !important;
+}
+
+body.drawer-open .docMainContainer {
+  margin-right: 440px !important;
+  width: calc(100% - 440px) !important;
+  padding-right: 0 !important;
+}
+
+/* Keep navbar positioning correct when drawer opens */
+/* Navbar spans full width - drawer sits below navbar (not behind it) */
+body.drawer-open .navbar.custom-navbar {
+  position: sticky !important;
+  top: 0 !important;
+  left: 0 !important;
+  right: 0 !important;
+  width: 100% !important;
+  z-index: 1000 !important;
+  /* Navbar is not affected by main-wrapper margin */
+}
+
+/* CRITICAL: Hide the entire TOC column wrapper when drawer is open */
+body.drawer-open .col--3,
+body.drawer-open .col.col--3 {
+  display: none !important;
+}
+
+/* Expand main content column to use full width when TOC is hidden */
+body.drawer-open .row > .col:not(.col--3) {
+  flex: 0 0 100% !important;
+  max-width: 100% !important;
+  padding-right: 0 !important;
+  padding-left: 0 !important;
+}
+
+body.drawer-open .container .row {
+  gap: 0 !important;
+  margin-left: 0 !important;
+  margin-right: 0 !important;
+}
+
+/* Ensure article/content wrapper uses available space */
+body.drawer-open article,
+body.drawer-open [class*="docItemCol"],
+body.drawer-open .markdown {
+  max-width: 95% !important;
+}
+
+/* When BOTH right drawer AND left sidebar are open, reduce max-width to 85% and move left */
+body.drawer-open.sidebar-expanded article,
+body.drawer-open.sidebar-expanded [class*="docItemCol"],
+body.drawer-open.sidebar-expanded .markdown {
+  max-width: 85% !important;
+  margin-left: 12px !important;
+}
+
+/* Allow main doc item column to stretch fully */
+body.drawer-open .docItemCol {
+  flex: 1 1 auto !important;
+}
+
+/* Responsive - full width drawer on mobile */
+@media (max-width: 768px) {
+  body.drawer-open .main-wrapper {
+    padding-right: 0 !important;
+    margin-right: 100vw !important; /* Push content completely off-screen for full-width drawer */
+  }
+}
+
+/* Drawer Panel - Positioned beside content, below navbar */
+.right-drawer__panel {
+  position: fixed !important;
+  top: 108px !important; /* Start below navbar (60px main + 48px secondary) */
+  right: 0 !important;
+  left: auto !important;
+  bottom: 0 !important;
+  width: 440px !important;
+  max-width: 90vw !important;
+  background-color: #ffffff !important;
+  border-left: 1px solid #e5e5e5 !important;
+  box-shadow: -4px 0 24px rgba(0, 0, 0, 0.1) !important;
+  z-index: 100 !important;
+  display: flex !important;
+  flex-direction: column !important;
+  transform: translateX(100%) !important;
+  transition: transform 0.3s cubic-bezier(0.16, 1, 0.3, 1) !important;
+  overflow: hidden !important;
+  direction: ltr !important;
+}
+
+/* Dark mode override for drawer panel */
+html[data-theme='dark'] .right-drawer__panel {
+  background: linear-gradient(180deg, #1a1a1a 0%, #111111 100%) !important;
+  border-left-color: rgba(170, 170, 170, 0.15) !important;
+  box-shadow: -4px 0 24px rgba(0, 0, 0, 0.6) !important;
+}
+
+.right-drawer__panel--open {
+  transform: translateX(0) !important;
+}
+
+/* Drawer Header */
+.right-drawer__header {
+  display: flex;
+  align-items: center;
+  justify-content: space-between;
+  padding: 24px 24px 20px 24px;
+  border-bottom: 1px solid #e5e5e5;
+  flex-shrink: 0;
+}
+
+html[data-theme='dark'] .right-drawer__header {
+  border-bottom-color: rgba(170, 170, 170, 0.12);
+  background: linear-gradient(135deg, #2a2a2a 0%, #333333 50%, #444444 100%);
+}
+
+.right-drawer__title {
+  font-size: 20px;
+  font-weight: 600;
+  color: #0a0a0a;
+  margin: 0;
+  line-height: 1.3;
+  letter-spacing: -0.01em;
+}
+
+html[data-theme='dark'] .right-drawer__title {
+  color: #ffffff;
+}
+
+.right-drawer__close-button {
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  width: 32px;
+  height: 32px;
+  background: transparent;
+  border: none;
+  border-radius: 6px;
+  color: #666666;
+  cursor: pointer;
+  transition: all 0.2s ease;
+  padding: 0;
+  flex-shrink: 0;
+}
+
+.right-drawer__close-button:hover {
+  background-color: #f5f5f5;
+  color: #0a0a0a;
+}
+
+html[data-theme='dark'] .right-drawer__close-button {
+  color: #aaaaaa;
+}
+
+html[data-theme='dark'] .right-drawer__close-button:hover {
+  background-color: rgba(170, 170, 170, 0.1);
+  color: #ffffff;
+}
+
+.right-drawer__close-button svg {
+  width: 20px;
+  height: 20px;
+}
+
+/* Drawer Content - Scrollable Area */
+.right-drawer__content {
+  flex: 1;
+  overflow-y: auto;
+  overflow-x: hidden;
+  padding: 24px;
+}
+
+/* Custom scrollbar for drawer content */
+.right-drawer__content::-webkit-scrollbar {
+  width: 10px;
+}
+
+.right-drawer__content::-webkit-scrollbar-track {
+  background: transparent;
+}
+
+.right-drawer__content::-webkit-scrollbar-thumb {
+  background: #d0d0d0;
+  border-radius: 5px;
+  border: 2px solid #ffffff;
+}
+
+.right-drawer__content::-webkit-scrollbar-thumb:hover {
+  background: #b0b0b0;
+}
+
+html[data-theme='dark'] .right-drawer__content::-webkit-scrollbar-thumb {
+  background: rgba(170, 170, 170, 0.3);
+  border-color: #1a1a1a;
+}
+
+html[data-theme='dark'] .right-drawer__content::-webkit-scrollbar-thumb:hover {
+  background: rgba(170, 170, 170, 0.4);
+}
+
+/* Placeholder Content */
+.right-drawer__placeholder {
+  display: flex;
+  flex-direction: column;
+  gap: 24px;
+}
+
+.right-drawer__placeholder-text {
+  font-size: 14px;
+  color: #666666;
+  line-height: 1.6;
+  margin: 0 0 8px 0;
+}
+
+html[data-theme='dark'] .right-drawer__placeholder-text {
+  color: #999999;
+}
+
+/* Form Styles */
+.right-drawer__form {
+  display: flex;
+  flex-direction: column;
+  gap: 20px;
+}
+
+.right-drawer__form-group {
+  display: flex;
+  flex-direction: column;
+  gap: 8px;
+}
+
+.right-drawer__label {
+  font-size: 14px;
+  font-weight: 500;
+  color: #333333;
+  line-height: 1.4;
+}
+
+html[data-theme='dark'] .right-drawer__label {
+  color: #cccccc;
+}
+
+.right-drawer__input {
+  width: 100%;
+  background-color: #f5f5f5;
+  border: 1px solid #e0e0e0;
+  border-radius: 8px;
+  padding: 10px 14px;
+  font-size: 14px;
+  color: #0a0a0a;
+  line-height: 1.5;
+  transition: all 0.2s ease;
+  outline: none;
+  font-family: inherit;
+}
+
+.right-drawer__input::placeholder {
+  color: #999999;
+}
+
+.right-drawer__input:hover {
+  background-color: #efefef;
+  border-color: #d0d0d0;
+}
+
+.right-drawer__input:focus {
+  background-color: #ffffff;
+  border-color: #999999;
+  box-shadow: 0 0 0 3px rgba(0, 0, 0, 0.05);
+}
+
+html[data-theme='dark'] .right-drawer__input {
+  background-color: rgba(170, 170, 170, 0.05);
+  border-color: rgba(170, 170, 170, 0.15);
+  color: #dddddd;
+}
+
+html[data-theme='dark'] .right-drawer__input::placeholder {
+  color: #888888;
+}
+
+html[data-theme='dark'] .right-drawer__input:hover {
+  border-color: rgba(170, 170, 170, 0.25);
+  background-color: rgba(170, 170, 170, 0.08);
+}
+
+html[data-theme='dark'] .right-drawer__input:focus {
+  border-color: rgba(170, 170, 170, 0.35);
+  background-color: rgba(170, 170, 170, 0.1);
+  box-shadow: 0 0 0 3px rgba(170, 170, 170, 0.08);
+}
+
+/* Action Buttons */
+.right-drawer__actions {
+  display: flex;
+  flex-direction: column;
+  gap: 12px;
+  margin-top: 8px;
+}
+
+.right-drawer__button {
+  width: 100%;
+  padding: 12px 20px;
+  border-radius: 8px;
+  font-size: 14px;
+  font-weight: 500;
+  line-height: 1.5;
+  cursor: pointer;
+  transition: all 0.2s ease;
+  border: none;
+  font-family: inherit;
+  text-align: center;
+}
+
+.right-drawer__button--primary {
+  background-color: #0a0a0a;
+  color: #ffffff;
+}
+
+.right-drawer__button--primary:hover {
+  background-color: #1a1a1a;
+}
+
+.right-drawer__button--primary:active {
+  background-color: #252525;
+}
+
+html[data-theme='dark'] .right-drawer__button--primary {
+  background: linear-gradient(135deg, #2a2a2a 0%, #333333 50%, #444444 100%);
+  color: #ffffff;
+  border: 1px solid rgba(170, 170, 170, 0.2);
+}
+
+html[data-theme='dark'] .right-drawer__button--primary:hover {
+  background: linear-gradient(135deg, #333333 0%, #3d3d3d 50%, #4d4d4d 100%);
+  border-color: rgba(170, 170, 170, 0.3);
+}
+
+html[data-theme='dark'] .right-drawer__button--primary:active {
+  background: linear-gradient(135deg, #252525 0%, #2e2e2e 50%, #383838 100%);
+}
+
+.right-drawer__button--secondary {
+  background-color: transparent;
+  color: #555555;
+  border: 1px solid #d0d0d0;
+}
+
+.right-drawer__button--secondary:hover {
+  background-color: #f5f5f5;
+  border-color: #b0b0b0;
+  color: #0a0a0a;
+}
+
+.right-drawer__button--secondary:active {
+  background-color: #ebebeb;
+}
+
+html[data-theme='dark'] .right-drawer__button--secondary {
+  background-color: transparent;
+  color: #aaaaaa;
+  border-color: rgba(170, 170, 170, 0.2);
+}
+
+html[data-theme='dark'] .right-drawer__button--secondary:hover {
+  background-color: rgba(170, 170, 170, 0.08);
+  border-color: rgba(170, 170, 170, 0.3);
+  color: #dddddd;
+}
+
+html[data-theme='dark'] .right-drawer__button--secondary:active {
+  background-color: rgba(170, 170, 170, 0.12);
+}
+
+/* Responsive Design */
+@media (max-width: 768px) {
+  .right-drawer__panel {
+    width: 100%;
+    max-width: 100%;
+  }
+
+  .right-drawer__header {
+    padding: 20px 16px 16px 16px;
+  }
+
+  .right-drawer__content {
+    padding: 20px 16px;
+  }
+
+  .right-drawer__title {
+    font-size: 18px;
+  }
+}
+

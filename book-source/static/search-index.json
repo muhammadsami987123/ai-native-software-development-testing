@@ -1,0 +1,2162 @@
+[
+  {
+    "type": "page",
+    "title": "A Moment That Changed Everything",
+    "breadcrumb": "Introducing AI Driven Development › Ai Development Revolution",
+    "description": "Introducing AI Driven Development › Ai Development Revolution",
+    "url": "/docs/Introducing-AI-Driven-Development/ai-development-revolution/moment_that_changed_everything",
+    "_filePath": "01-Introducing-AI-Driven-Development\\01-ai-development-revolution\\01-moment_that_changed_everything.md"
+  },
+  {
+    "type": "page",
+    "title": "The $3 Trillion Developer Economy",
+    "breadcrumb": "Introducing AI Driven Development › Ai Development Revolution",
+    "description": "Introducing AI Driven Development › Ai Development Revolution",
+    "url": "/docs/Introducing-AI-Driven-Development/ai-development-revolution/three-trillion-developer-economy",
+    "_filePath": "01-Introducing-AI-Driven-Development\\01-ai-development-revolution\\02-three-trillion-developer-economy.md"
+  },
+  {
+    "type": "page",
+    "title": "Software Disrupting Itself",
+    "breadcrumb": "Introducing AI Driven Development › Ai Development Revolution",
+    "description": "Introducing AI Driven Development › Ai Development Revolution",
+    "url": "/docs/Introducing-AI-Driven-Development/ai-development-revolution/software-disrupting-itself",
+    "_filePath": "01-Introducing-AI-Driven-Development\\01-ai-development-revolution\\03-software-disrupting-itself.md"
+  },
+  {
+    "type": "page",
+    "title": "The Development Lifecycle in Transition",
+    "breadcrumb": "Introducing AI Driven Development › Ai Development Revolution",
+    "description": "Introducing AI Driven Development › Ai Development Revolution",
+    "url": "/docs/Introducing-AI-Driven-Development/ai-development-revolution/development-lifecycle-transition",
+    "_filePath": "01-Introducing-AI-Driven-Development\\01-ai-development-revolution\\04-development-lifecycle-transition.md"
+  },
+  {
+    "type": "page",
+    "title": "Beyond Code: The Changing Role of Developers",
+    "breadcrumb": "Introducing AI Driven Development › Ai Development Revolution",
+    "description": "Introducing AI Driven Development › Ai Development Revolution",
+    "url": "/docs/Introducing-AI-Driven-Development/ai-development-revolution/beyond-code-changing-roles",
+    "_filePath": "01-Introducing-AI-Driven-Development\\01-ai-development-revolution\\05-beyond-code-changing-roles.md"
+  },
+  {
+    "type": "page",
+    "title": "The Autonomous Agent Era",
+    "breadcrumb": "Introducing AI Driven Development › Ai Development Revolution",
+    "description": "Introducing AI Driven Development › Ai Development Revolution",
+    "url": "/docs/Introducing-AI-Driven-Development/ai-development-revolution/autonomous-agent-era",
+    "_filePath": "01-Introducing-AI-Driven-Development\\01-ai-development-revolution\\06-autonomous-agent-era.md"
+  },
+  {
+    "type": "page",
+    "title": "The Opportunity Window",
+    "breadcrumb": "Introducing AI Driven Development › Ai Development Revolution",
+    "description": "Introducing AI Driven Development › Ai Development Revolution",
+    "url": "/docs/Introducing-AI-Driven-Development/ai-development-revolution/opportunity-window",
+    "_filePath": "01-Introducing-AI-Driven-Development\\01-ai-development-revolution\\07-opportunity-window.md"
+  },
+  {
+    "type": "page",
+    "title": "Why Traditional CS Education Falls Short",
+    "breadcrumb": "Introducing AI Driven Development › Ai Development Revolution",
+    "description": "Introducing AI Driven Development › Ai Development Revolution",
+    "url": "/docs/Introducing-AI-Driven-Development/ai-development-revolution/traditional-cs-education-gaps",
+    "_filePath": "01-Introducing-AI-Driven-Development\\01-ai-development-revolution\\08-traditional-cs-education-gaps.md"
+  },
+  {
+    "type": "page",
+    "title": "Chapter 1: AI Development Revolution Quiz",
+    "breadcrumb": "Introducing AI Driven Development › Ai Development Revolution",
+    "description": "Introducing AI Driven Development › Ai Development Revolution",
+    "url": "/docs/Introducing-AI-Driven-Development/ai-development-revolution/09_chapter_01_quiz",
+    "_filePath": "01-Introducing-AI-Driven-Development\\01-ai-development-revolution\\09_chapter_01_quiz.md"
+  },
+  {
+    "type": "page",
+    "title": "Chapter 1: The AI Development Revolution",
+    "breadcrumb": "Introducing AI Driven Development › Ai Development Revolution",
+    "description": "Introducing AI Driven Development › Ai Development Revolution",
+    "url": "/docs/Introducing-AI-Driven-Development/ai-development-revolution",
+    "_filePath": "01-Introducing-AI-Driven-Development\\01-ai-development-revolution\\readme.md"
+  },
+  {
+    "type": "page",
+    "title": "The Inflection Point — Why 2025 Is Different",
+    "breadcrumb": "Introducing AI Driven Development › Ai Turning Point",
+    "description": "Introducing AI Driven Development › Ai Turning Point",
+    "url": "/docs/Introducing-AI-Driven-Development/ai-turning-point/the-inflection-point",
+    "_filePath": "01-Introducing-AI-Driven-Development\\02-ai-turning-point\\01-the-inflection-point.md"
+  },
+  {
+    "type": "page",
+    "title": "From User Interface to User Intent",
+    "breadcrumb": "Introducing AI Driven Development › Ai Turning Point",
+    "description": "Introducing AI Driven Development › Ai Turning Point",
+    "url": "/docs/Introducing-AI-Driven-Development/ai-turning-point/user-interface-intent",
+    "_filePath": "01-Introducing-AI-Driven-Development\\02-ai-turning-point\\02-user-interface-intent.md"
+  },
+  {
+    "type": "page",
+    "title": "Development Patterns — Vibe Coding vs. Spec-Driven Development",
+    "breadcrumb": "Introducing AI Driven Development › Ai Turning Point",
+    "description": "Introducing AI Driven Development › Ai Turning Point",
+    "url": "/docs/Introducing-AI-Driven-Development/ai-turning-point/development-patterns",
+    "_filePath": "01-Introducing-AI-Driven-Development\\02-ai-turning-point\\03-development-patterns.md"
+  },
+  {
+    "type": "page",
+    "title": "The DORA Perspective: AI as Amplifier",
+    "breadcrumb": "Introducing AI Driven Development › Ai Turning Point",
+    "description": "Introducing AI Driven Development › Ai Turning Point",
+    "url": "/docs/Introducing-AI-Driven-Development/ai-turning-point/dora-perspective",
+    "_filePath": "01-Introducing-AI-Driven-Development\\02-ai-turning-point\\04-dora-perspective.md"
+  },
+  {
+    "type": "page",
+    "title": "The Modern AI Development Stack",
+    "breadcrumb": "Introducing AI Driven Development › Ai Turning Point",
+    "description": "Introducing AI Driven Development › Ai Turning Point",
+    "url": "/docs/Introducing-AI-Driven-Development/ai-turning-point/ai-coding-agents",
+    "_filePath": "01-Introducing-AI-Driven-Development\\02-ai-turning-point\\05-ai-coding-agents.md"
+  },
+  {
+    "type": "page",
+    "title": "Chapter 2: The AI Turning Point Quiz",
+    "breadcrumb": "Introducing AI Driven Development › Ai Turning Point",
+    "description": "Introducing AI Driven Development › Ai Turning Point",
+    "url": "/docs/Introducing-AI-Driven-Development/ai-turning-point/05_chapter_02_quiz",
+    "_filePath": "01-Introducing-AI-Driven-Development\\02-ai-turning-point\\05_chapter_02_quiz.md"
+  },
+  {
+    "type": "page",
+    "title": "Chapter 2: The AI Turning Point",
+    "breadcrumb": "Introducing AI Driven Development › Ai Turning Point",
+    "description": "Introducing AI Driven Development › Ai Turning Point",
+    "url": "/docs/Introducing-AI-Driven-Development/ai-turning-point",
+    "_filePath": "01-Introducing-AI-Driven-Development\\02-ai-turning-point\\README.md"
+  },
+  {
+    "type": "page",
+    "title": "The Billion-Dollar Question",
+    "breadcrumb": "Introducing AI Driven Development › Billion Dollar Ai",
+    "description": "Introducing AI Driven Development › Billion Dollar Ai",
+    "url": "/docs/Introducing-AI-Driven-Development/billion-dollar-ai/billion-dollar-question",
+    "_filePath": "01-Introducing-AI-Driven-Development\\03-billion-dollar-ai\\01-billion-dollar-question.md"
+  },
+  {
+    "type": "page",
+    "title": "The Snakes and Ladders Framework",
+    "breadcrumb": "Introducing AI Driven Development › Billion Dollar Ai",
+    "description": "Introducing AI Driven Development › Billion Dollar Ai",
+    "url": "/docs/Introducing-AI-Driven-Development/billion-dollar-ai/snakes-and-ladders",
+    "_filePath": "01-Introducing-AI-Driven-Development\\03-billion-dollar-ai\\02-snakes-and-ladders.md"
+  },
+  {
+    "type": "page",
+    "title": "The Economics of Super Orchestrators",
+    "breadcrumb": "Introducing AI Driven Development › Billion Dollar Ai",
+    "description": "Introducing AI Driven Development › Billion Dollar Ai",
+    "url": "/docs/Introducing-AI-Driven-Development/billion-dollar-ai/super-orchestrators",
+    "_filePath": "01-Introducing-AI-Driven-Development\\03-billion-dollar-ai\\03-super-orchestrators.md"
+  },
+  {
+    "type": "page",
+    "title": "From Code Reuse to Vertical Intelligence",
+    "breadcrumb": "Introducing AI Driven Development › Billion Dollar Ai",
+    "description": "Introducing AI Driven Development › Billion Dollar Ai",
+    "url": "/docs/Introducing-AI-Driven-Development/billion-dollar-ai/vertical-intelligence",
+    "_filePath": "01-Introducing-AI-Driven-Development\\03-billion-dollar-ai\\04-vertical-intelligence.md"
+  },
+  {
+    "type": "page",
+    "title": "The Piggyback Protocol Pivot Strategy",
+    "breadcrumb": "Introducing AI Driven Development › Billion Dollar Ai",
+    "description": "Introducing AI Driven Development › Billion Dollar Ai",
+    "url": "/docs/Introducing-AI-Driven-Development/billion-dollar-ai/ppp-strategy",
+    "_filePath": "01-Introducing-AI-Driven-Development\\03-billion-dollar-ai\\05-ppp-strategy.md"
+  },
+  {
+    "type": "page",
+    "title": "Three Requirements for Vertical Success",
+    "breadcrumb": "Introducing AI Driven Development › Billion Dollar Ai",
+    "description": "Introducing AI Driven Development › Billion Dollar Ai",
+    "url": "/docs/Introducing-AI-Driven-Development/billion-dollar-ai/three-requirements",
+    "_filePath": "01-Introducing-AI-Driven-Development\\03-billion-dollar-ai\\06-three-requirements.md"
+  },
+  {
+    "type": "page",
+    "title": "Pause and Reflect",
+    "breadcrumb": "Introducing AI Driven Development › Billion Dollar Ai",
+    "description": "Introducing AI Driven Development › Billion Dollar Ai",
+    "url": "/docs/Introducing-AI-Driven-Development/billion-dollar-ai/pause-and-reflect",
+    "_filePath": "01-Introducing-AI-Driven-Development\\03-billion-dollar-ai\\07-pause-and-reflect.md"
+  },
+  {
+    "type": "page",
+    "title": "Chapter 3: How to Make a Billion Dollars in the AI Era Quiz",
+    "breadcrumb": "Introducing AI Driven Development › Billion Dollar Ai",
+    "description": "Introducing AI Driven Development › Billion Dollar Ai",
+    "url": "/docs/Introducing-AI-Driven-Development/billion-dollar-ai/08_chapter_03_quiz",
+    "_filePath": "01-Introducing-AI-Driven-Development\\03-billion-dollar-ai\\08_chapter_03_quiz.md"
+  },
+  {
+    "type": "page",
+    "title": "Chapter 3: How to Make a Billion Dollars in the AI Era",
+    "breadcrumb": "Introducing AI Driven Development › Billion Dollar Ai",
+    "description": "Introducing AI Driven Development › Billion Dollar Ai",
+    "url": "/docs/Introducing-AI-Driven-Development/billion-dollar-ai",
+    "_filePath": "01-Introducing-AI-Driven-Development\\03-billion-dollar-ai\\README.md"
+  },
+  {
+    "type": "page",
+    "title": "Why This Moment Demands a New Paradigm",
+    "breadcrumb": "Introducing AI Driven Development › Nine Pillars",
+    "description": "Introducing AI Driven Development › Nine Pillars",
+    "url": "/docs/Introducing-AI-Driven-Development/nine-pillars/why-new-paradigm",
+    "_filePath": "01-Introducing-AI-Driven-Development\\04-nine-pillars\\01-why-new-paradigm.md"
+  },
+  {
+    "type": "page",
+    "title": "AIDD Defined: A Complete Methodology",
+    "breadcrumb": "Introducing AI Driven Development › Nine Pillars",
+    "description": "Introducing AI Driven Development › Nine Pillars",
+    "url": "/docs/Introducing-AI-Driven-Development/nine-pillars/aidd-defined",
+    "_filePath": "01-Introducing-AI-Driven-Development\\04-nine-pillars\\02-aidd-defined.md"
+  },
+  {
+    "type": "page",
+    "title": "The Nine Pillars—Overview and Integration",
+    "breadcrumb": "Introducing AI Driven Development › Nine Pillars",
+    "description": "Introducing AI Driven Development › Nine Pillars",
+    "url": "/docs/Introducing-AI-Driven-Development/nine-pillars/pillars-overview",
+    "_filePath": "01-Introducing-AI-Driven-Development\\04-nine-pillars\\03-pillars-overview.md"
+  },
+  {
+    "type": "page",
+    "title": "The Nine Pillars Detailed",
+    "breadcrumb": "Introducing AI Driven Development › Nine Pillars",
+    "description": "Introducing AI Driven Development › Nine Pillars",
+    "url": "/docs/Introducing-AI-Driven-Development/nine-pillars/pillars-detailed",
+    "_filePath": "01-Introducing-AI-Driven-Development\\04-nine-pillars\\04-pillars-detailed.md"
+  },
+  {
+    "type": "page",
+    "title": "The M-Shaped Developer—What AIDD Makes Possible",
+    "breadcrumb": "Introducing AI Driven Development › Nine Pillars",
+    "description": "Introducing AI Driven Development › Nine Pillars",
+    "url": "/docs/Introducing-AI-Driven-Development/nine-pillars/m-shaped-developer",
+    "_filePath": "01-Introducing-AI-Driven-Development\\04-nine-pillars\\05-m-shaped-developer.md"
+  },
+  {
+    "type": "page",
+    "title": "Why All Nine Matter—Urgency Without Panic",
+    "breadcrumb": "Introducing AI Driven Development › Nine Pillars",
+    "description": "Introducing AI Driven Development › Nine Pillars",
+    "url": "/docs/Introducing-AI-Driven-Development/nine-pillars/why-all-nine-matter",
+    "_filePath": "01-Introducing-AI-Driven-Development\\04-nine-pillars\\06-why-all-nine-matter.md"
+  },
+  {
+    "type": "page",
+    "title": "Chapter 4: Nine Pillars Quiz",
+    "breadcrumb": "Introducing AI Driven Development › Nine Pillars",
+    "description": "Introducing AI Driven Development › Nine Pillars",
+    "url": "/docs/Introducing-AI-Driven-Development/nine-pillars/chapter-04-quiz",
+    "_filePath": "01-Introducing-AI-Driven-Development\\04-nine-pillars\\07-chapter-04-quiz.md"
+  },
+  {
+    "type": "page",
+    "title": "Chapter 4: The Nine Pillars of AI-Driven Development",
+    "breadcrumb": "Introducing AI Driven Development › Nine Pillars",
+    "description": "Introducing AI Driven Development › Nine Pillars",
+    "url": "/docs/Introducing-AI-Driven-Development/nine-pillars",
+    "_filePath": "01-Introducing-AI-Driven-Development\\04-nine-pillars\\README.md"
+  },
+  {
+    "type": "page",
+    "title": "Part 1: Introducing AI-Driven Development",
+    "breadcrumb": "Introducing AI Driven Development",
+    "description": "Introducing AI Driven Development",
+    "url": "/docs/Introducing-AI-Driven-Development",
+    "_filePath": "01-Introducing-AI-Driven-Development\\README.md"
+  },
+  {
+    "type": "page",
+    "title": "The Claude Code Origin Story and Paradigm Shift",
+    "breadcrumb": "AI Tool Landscape › Claude Code Features And Workflows",
+    "description": "AI Tool Landscape › Claude Code Features And Workflows",
+    "url": "/docs/AI-Tool-Landscape/claude-code-features-and-workflows/origin-story",
+    "_filePath": "02-AI-Tool-Landscape\\05-claude-code-features-and-workflows\\01-origin-story.md"
+  },
+  {
+    "type": "page",
+    "title": "Installing and Authenticating Claude Code",
+    "breadcrumb": "AI Tool Landscape › Claude Code Features And Workflows",
+    "description": "AI Tool Landscape › Claude Code Features And Workflows",
+    "url": "/docs/AI-Tool-Landscape/claude-code-features-and-workflows/installation-and-authentication",
+    "_filePath": "02-AI-Tool-Landscape\\05-claude-code-features-and-workflows\\02-installation-and-authentication.md"
+  },
+  {
+    "type": "page",
+    "title": "CLAUDE.md Context Files",
+    "breadcrumb": "AI Tool Landscape › Claude Code Features And Workflows",
+    "description": "AI Tool Landscape › Claude Code Features And Workflows",
+    "url": "/docs/AI-Tool-Landscape/claude-code-features-and-workflows/claude-md-context-files",
+    "_filePath": "02-AI-Tool-Landscape\\05-claude-code-features-and-workflows\\03-claude-md-context-files.md"
+  },
+  {
+    "type": "page",
+    "title": "MCP Integration",
+    "breadcrumb": "AI Tool Landscape › Claude Code Features And Workflows",
+    "description": "AI Tool Landscape › Claude Code Features And Workflows",
+    "url": "/docs/AI-Tool-Landscape/claude-code-features-and-workflows/mcp-integration",
+    "_filePath": "02-AI-Tool-Landscape\\05-claude-code-features-and-workflows\\04-mcp-integration.md"
+  },
+  {
+    "type": "page",
+    "title": "Subagents and Orchestration",
+    "breadcrumb": "AI Tool Landscape › Claude Code Features And Workflows",
+    "description": "AI Tool Landscape › Claude Code Features And Workflows",
+    "url": "/docs/AI-Tool-Landscape/claude-code-features-and-workflows/subagents-and-orchestration",
+    "_filePath": "02-AI-Tool-Landscape\\05-claude-code-features-and-workflows\\05-subagents-and-orchestration.md"
+  },
+  {
+    "type": "page",
+    "title": "Agent Skills",
+    "breadcrumb": "AI Tool Landscape › Claude Code Features And Workflows",
+    "description": "AI Tool Landscape › Claude Code Features And Workflows",
+    "url": "/docs/AI-Tool-Landscape/claude-code-features-and-workflows/agent-skills",
+    "_filePath": "02-AI-Tool-Landscape\\05-claude-code-features-and-workflows\\06-agent-skills.md"
+  },
+  {
+    "type": "page",
+    "title": "Hooks and Extensibility",
+    "breadcrumb": "AI Tool Landscape › Claude Code Features And Workflows",
+    "description": "AI Tool Landscape › Claude Code Features And Workflows",
+    "url": "/docs/AI-Tool-Landscape/claude-code-features-and-workflows/hooks-and-extensibility",
+    "_filePath": "02-AI-Tool-Landscape\\05-claude-code-features-and-workflows\\07-hooks-and-extensibility.md"
+  },
+  {
+    "type": "page",
+    "title": "Settings Hierarchy",
+    "breadcrumb": "AI Tool Landscape › Claude Code Features And Workflows",
+    "description": "AI Tool Landscape › Claude Code Features And Workflows",
+    "url": "/docs/AI-Tool-Landscape/claude-code-features-and-workflows/settings-hierarchy",
+    "_filePath": "02-AI-Tool-Landscape\\05-claude-code-features-and-workflows\\08-settings-hierarchy.md"
+  },
+  {
+    "type": "page",
+    "title": "Discovering and Using Claude Code Plugins",
+    "breadcrumb": "AI Tool Landscape › Claude Code Features And Workflows",
+    "description": "AI Tool Landscape › Claude Code Features And Workflows",
+    "url": "/docs/AI-Tool-Landscape/claude-code-features-and-workflows/plugins-putting-it-all-together",
+    "_filePath": "02-AI-Tool-Landscape\\05-claude-code-features-and-workflows\\09-plugins-putting-it-all-together.md"
+  },
+  {
+    "type": "page",
+    "title": "Chapter 5: How It All Started — The Claude Code Phenomenon",
+    "breadcrumb": "AI Tool Landscape › Claude Code Features And Workflows",
+    "description": "AI Tool Landscape › Claude Code Features And Workflows",
+    "url": "/docs/AI-Tool-Landscape/claude-code-features-and-workflows",
+    "_filePath": "02-AI-Tool-Landscape\\05-claude-code-features-and-workflows\\README.md"
+  },
+  {
+    "type": "page",
+    "title": "Why Gemini CLI Matters",
+    "breadcrumb": "AI Tool Landscape › Gemini Cli Installation And Basics",
+    "description": "AI Tool Landscape › Gemini Cli Installation And Basics",
+    "url": "/docs/AI-Tool-Landscape/gemini-cli-installation-and-basics/why-gemini-cli-matters",
+    "_filePath": "02-AI-Tool-Landscape\\06-gemini-cli-installation-and-basics\\01-why-gemini-cli-matters.md"
+  },
+  {
+    "type": "page",
+    "title": "Installation, Authentication & First Steps",
+    "breadcrumb": "AI Tool Landscape › Gemini Cli Installation And Basics",
+    "description": "AI Tool Landscape › Gemini Cli Installation And Basics",
+    "url": "/docs/AI-Tool-Landscape/gemini-cli-installation-and-basics/installation-authentication-first-steps",
+    "_filePath": "02-AI-Tool-Landscape\\06-gemini-cli-installation-and-basics\\02-installation-authentication-first-steps.md"
+  },
+  {
+    "type": "page",
+    "title": "What Gemini Can Do: Built-In Tools in Action",
+    "breadcrumb": "AI Tool Landscape › Gemini Cli Installation And Basics",
+    "description": "AI Tool Landscape › Gemini Cli Installation And Basics",
+    "url": "/docs/AI-Tool-Landscape/gemini-cli-installation-and-basics/built-in-tools-deep-dive",
+    "_filePath": "02-AI-Tool-Landscape\\06-gemini-cli-installation-and-basics\\03-built-in-tools-deep-dive.md"
+  },
+  {
+    "type": "page",
+    "title": "Memory & Context Management",
+    "breadcrumb": "AI Tool Landscape › Gemini Cli Installation And Basics",
+    "description": "AI Tool Landscape › Gemini Cli Installation And Basics",
+    "url": "/docs/AI-Tool-Landscape/gemini-cli-installation-and-basics/memory-and-context-management",
+    "_filePath": "02-AI-Tool-Landscape\\06-gemini-cli-installation-and-basics\\04-memory-and-context-management.md"
+  },
+  {
+    "type": "page",
+    "title": "Configuration & Settings",
+    "breadcrumb": "AI Tool Landscape › Gemini Cli Installation And Basics",
+    "description": "AI Tool Landscape › Gemini Cli Installation And Basics",
+    "url": "/docs/AI-Tool-Landscape/gemini-cli-installation-and-basics/configuration-and-settings",
+    "_filePath": "02-AI-Tool-Landscape\\06-gemini-cli-installation-and-basics\\05-configuration-and-settings.md"
+  },
+  {
+    "type": "page",
+    "title": "MCP Servers & Integration",
+    "breadcrumb": "AI Tool Landscape › Gemini Cli Installation And Basics",
+    "description": "AI Tool Landscape › Gemini Cli Installation And Basics",
+    "url": "/docs/AI-Tool-Landscape/gemini-cli-installation-and-basics/mcp-servers-and-integration",
+    "_filePath": "02-AI-Tool-Landscape\\06-gemini-cli-installation-and-basics\\06-mcp-servers-and-integration.md"
+  },
+  {
+    "type": "page",
+    "title": "Personalizing Your AI Learning Experience",
+    "breadcrumb": "AI Tool Landscape › Gemini Cli Installation And Basics",
+    "description": "AI Tool Landscape › Gemini Cli Installation And Basics",
+    "url": "/docs/AI-Tool-Landscape/gemini-cli-installation-and-basics/custom-slash-commands",
+    "_filePath": "02-AI-Tool-Landscape\\06-gemini-cli-installation-and-basics\\07-custom-slash-commands.md"
+  },
+  {
+    "type": "page",
+    "title": "Extensions, Security & Tool Safety",
+    "breadcrumb": "AI Tool Landscape › Gemini Cli Installation And Basics",
+    "description": "AI Tool Landscape › Gemini Cli Installation And Basics",
+    "url": "/docs/AI-Tool-Landscape/gemini-cli-installation-and-basics/extensions-security-and-ide-integration",
+    "_filePath": "02-AI-Tool-Landscape\\06-gemini-cli-installation-and-basics\\08-extensions-security-and-ide-integration.md"
+  },
+  {
+    "type": "page",
+    "title": "Chapter 6: Google Gemini CLI: Open Source and Everywhere",
+    "breadcrumb": "AI Tool Landscape › Gemini Cli Installation And Basics",
+    "description": "AI Tool Landscape › Gemini Cli Installation And Basics",
+    "url": "/docs/AI-Tool-Landscape/gemini-cli-installation-and-basics",
+    "_filePath": "02-AI-Tool-Landscape\\06-gemini-cli-installation-and-basics\\README.md"
+  },
+  {
+    "type": "page",
+    "title": "Introducing Your AI Companion's Workspace",
+    "breadcrumb": "AI Tool Landscape › Bash Essentials",
+    "description": "AI Tool Landscape › Bash Essentials",
+    "url": "/docs/AI-Tool-Landscape/bash-essentials/introducing-ai-workspace",
+    "_filePath": "02-AI-Tool-Landscape\\07-bash-essentials\\01-introducing-ai-workspace.md"
+  },
+  {
+    "type": "page",
+    "title": "The Safety-First Dialogue Pattern",
+    "breadcrumb": "AI Tool Landscape › Bash Essentials",
+    "description": "AI Tool Landscape › Bash Essentials",
+    "url": "/docs/AI-Tool-Landscape/bash-essentials/safety-first-pattern",
+    "_filePath": "02-AI-Tool-Landscape\\07-bash-essentials\\02-safety-first-pattern.md"
+  },
+  {
+    "type": "page",
+    "title": "Understanding File Navigation Through Dialogue",
+    "breadcrumb": "AI Tool Landscape › Bash Essentials",
+    "description": "AI Tool Landscape › Bash Essentials",
+    "url": "/docs/AI-Tool-Landscape/bash-essentials/understanding-navigation",
+    "_filePath": "02-AI-Tool-Landscape\\07-bash-essentials\\03-understanding-navigation.md"
+  },
+  {
+    "type": "page",
+    "title": "Understanding File Operations Safely",
+    "breadcrumb": "AI Tool Landscape › Bash Essentials",
+    "description": "AI Tool Landscape › Bash Essentials",
+    "url": "/docs/AI-Tool-Landscape/bash-essentials/understanding-file-operations",
+    "_filePath": "02-AI-Tool-Landscape\\07-bash-essentials\\04-understanding-file-operations.md"
+  },
+  {
+    "type": "page",
+    "title": "Understanding Configuration and Secrets Safely",
+    "breadcrumb": "AI Tool Landscape › Bash Essentials",
+    "description": "AI Tool Landscape › Bash Essentials",
+    "url": "/docs/AI-Tool-Landscape/bash-essentials/configuration-secrets",
+    "_filePath": "02-AI-Tool-Landscape\\07-bash-essentials\\05-configuration-secrets.md"
+  },
+  {
+    "type": "page",
+    "title": "Understanding Dependencies and Packages",
+    "breadcrumb": "AI Tool Landscape › Bash Essentials",
+    "description": "AI Tool Landscape › Bash Essentials",
+    "url": "/docs/AI-Tool-Landscape/bash-essentials/packages-dependencies",
+    "_filePath": "02-AI-Tool-Landscape\\07-bash-essentials\\06-packages-dependencies.md"
+  },
+  {
+    "type": "page",
+    "title": "Understanding Pipes and Complex Commands",
+    "breadcrumb": "AI Tool Landscape › Bash Essentials",
+    "description": "AI Tool Landscape › Bash Essentials",
+    "url": "/docs/AI-Tool-Landscape/bash-essentials/pipes-complex-commands",
+    "_filePath": "02-AI-Tool-Landscape\\07-bash-essentials\\07-pipes-complex-commands.md"
+  },
+  {
+    "type": "page",
+    "title": "Chapter 7: Bash Essentials for AI-Driven Development",
+    "breadcrumb": "AI Tool Landscape › Bash Essentials",
+    "description": "AI Tool Landscape › Bash Essentials",
+    "url": "/docs/AI-Tool-Landscape/bash-essentials",
+    "_filePath": "02-AI-Tool-Landscape\\07-bash-essentials\\README.md"
+  },
+  {
+    "type": "page",
+    "title": "Your First Git Repository",
+    "breadcrumb": "AI Tool Landscape › Git And Github",
+    "description": "AI Tool Landscape › Git And Github",
+    "url": "/docs/AI-Tool-Landscape/git-and-github/your-first-git-repository",
+    "_filePath": "02-AI-Tool-Landscape\\08-git-and-github\\01-your-first-git-repository.md"
+  },
+  {
+    "type": "page",
+    "title": "Viewing Changes & Safe Undo",
+    "breadcrumb": "AI Tool Landscape › Git And Github",
+    "description": "AI Tool Landscape › Git And Github",
+    "url": "/docs/AI-Tool-Landscape/git-and-github/viewing-changes-safe-undo",
+    "_filePath": "02-AI-Tool-Landscape\\08-git-and-github\\02-viewing-changes-safe-undo.md"
+  },
+  {
+    "type": "page",
+    "title": "Testing AI Safely with Branches",
+    "breadcrumb": "AI Tool Landscape › Git And Github",
+    "description": "AI Tool Landscape › Git And Github",
+    "url": "/docs/AI-Tool-Landscape/git-and-github/testing-ai-safely-with-branches",
+    "_filePath": "02-AI-Tool-Landscape\\08-git-and-github\\03-testing-ai-safely-with-branches.md"
+  },
+  {
+    "type": "page",
+    "title": "Cloud Backup & Portfolio - GitHub Integration",
+    "breadcrumb": "AI Tool Landscape › Git And Github",
+    "description": "AI Tool Landscape › Git And Github",
+    "url": "/docs/AI-Tool-Landscape/git-and-github/cloud-backup-portfolio",
+    "_filePath": "02-AI-Tool-Landscape\\08-git-and-github\\04-cloud-backup-portfolio.md"
+  },
+  {
+    "type": "page",
+    "title": "Code Review with Pull Requests",
+    "breadcrumb": "AI Tool Landscape › Git And Github",
+    "description": "AI Tool Landscape › Git And Github",
+    "url": "/docs/AI-Tool-Landscape/git-and-github/code-review-pull-requests",
+    "_filePath": "02-AI-Tool-Landscape\\08-git-and-github\\05-code-review-pull-requests.md"
+  },
+  {
+    "type": "page",
+    "title": "Reusable Git Patterns - Creating Your Workflow Skill",
+    "breadcrumb": "AI Tool Landscape › Git And Github",
+    "description": "AI Tool Landscape › Git And Github",
+    "url": "/docs/AI-Tool-Landscape/git-and-github/reusable-git-patterns",
+    "_filePath": "02-AI-Tool-Landscape\\08-git-and-github\\06-reusable-git-patterns.md"
+  },
+  {
+    "type": "page",
+    "title": "Chapter 8: Git & GitHub for AI-Driven Development",
+    "breadcrumb": "AI Tool Landscape › Git And Github",
+    "description": "AI Tool Landscape › Git And Github",
+    "url": "/docs/AI-Tool-Landscape/git-and-github",
+    "_filePath": "02-AI-Tool-Landscape\\08-git-and-github\\readme.md"
+  },
+  {
+    "type": "page",
+    "title": "Part 2: AI Tool Landscape",
+    "breadcrumb": "AI Tool Landscape",
+    "description": "AI Tool Landscape",
+    "url": "/docs/AI-Tool-Landscape",
+    "_filePath": "02-AI-Tool-Landscape\\README.md"
+  },
+  {
+    "type": "page",
+    "title": "Markdown as Specification Language",
+    "breadcrumb": "Markdown Prompt Context Engineering › Markdown Language Of Ai",
+    "description": "Markdown Prompt Context Engineering › Markdown Language Of Ai",
+    "url": "/docs/Markdown-Prompt-Context-Engineering/markdown-language-of-ai/markdown-as-specification-language",
+    "_filePath": "03-Markdown-Prompt-Context-Engineering\\09-markdown-language-of-ai\\01-markdown-as-specification-language.md"
+  },
+  {
+    "type": "page",
+    "title": "Lists for Structured Requirements",
+    "breadcrumb": "Markdown Prompt Context Engineering › Markdown Language Of Ai",
+    "description": "Markdown Prompt Context Engineering › Markdown Language Of Ai",
+    "url": "/docs/Markdown-Prompt-Context-Engineering/markdown-language-of-ai/lists-for-requirements",
+    "_filePath": "03-Markdown-Prompt-Context-Engineering\\09-markdown-language-of-ai\\02-lists-for-requirements.md"
+  },
+  {
+    "type": "page",
+    "title": "Code Blocks for Specifications (Not Code)",
+    "breadcrumb": "Markdown Prompt Context Engineering › Markdown Language Of Ai",
+    "description": "Markdown Prompt Context Engineering › Markdown Language Of Ai",
+    "url": "/docs/Markdown-Prompt-Context-Engineering/markdown-language-of-ai/code-blocks-for-specifications",
+    "_filePath": "03-Markdown-Prompt-Context-Engineering\\09-markdown-language-of-ai\\03-code-blocks-for-specifications.md"
+  },
+  {
+    "type": "page",
+    "title": "Links, Images, and Reusable Templates",
+    "breadcrumb": "Markdown Prompt Context Engineering › Markdown Language Of Ai",
+    "description": "Markdown Prompt Context Engineering › Markdown Language Of Ai",
+    "url": "/docs/Markdown-Prompt-Context-Engineering/markdown-language-of-ai/links-images-and-templates",
+    "_filePath": "03-Markdown-Prompt-Context-Engineering\\09-markdown-language-of-ai\\04-links-images-and-templates.md"
+  },
+  {
+    "type": "page",
+    "title": "Complete System Specification (Capstone)",
+    "breadcrumb": "Markdown Prompt Context Engineering › Markdown Language Of Ai",
+    "description": "Markdown Prompt Context Engineering › Markdown Language Of Ai",
+    "url": "/docs/Markdown-Prompt-Context-Engineering/markdown-language-of-ai/complete-system-specification",
+    "_filePath": "03-Markdown-Prompt-Context-Engineering\\09-markdown-language-of-ai\\05-complete-system-specification.md"
+  },
+  {
+    "type": "page",
+    "title": "Chapter 9: Markdown - The Language of AI Communication",
+    "breadcrumb": "Markdown Prompt Context Engineering › Markdown Language Of Ai",
+    "description": "Markdown Prompt Context Engineering › Markdown Language Of Ai",
+    "url": "/docs/Markdown-Prompt-Context-Engineering/markdown-language-of-ai",
+    "_filePath": "03-Markdown-Prompt-Context-Engineering\\09-markdown-language-of-ai\\README.md"
+  },
+  {
+    "type": "page",
+    "title": "Prompts as Specifications",
+    "breadcrumb": "Markdown Prompt Context Engineering › Prompt Engineering For Aidd",
+    "description": "Markdown Prompt Context Engineering › Prompt Engineering For Aidd",
+    "url": "/docs/Markdown-Prompt-Context-Engineering/prompt-engineering-for-aidd/prompts-as-specifications",
+    "_filePath": "03-Markdown-Prompt-Context-Engineering\\10-prompt-engineering-for-aidd\\01-prompts-as-specifications.md"
+  },
+  {
+    "type": "page",
+    "title": "Understanding AI Coding Agents as Collaborative Partners",
+    "breadcrumb": "Markdown Prompt Context Engineering › Prompt Engineering For Aidd",
+    "description": "Markdown Prompt Context Engineering › Prompt Engineering For Aidd",
+    "url": "/docs/Markdown-Prompt-Context-Engineering/prompt-engineering-for-aidd/understanding-ai-agents",
+    "_filePath": "03-Markdown-Prompt-Context-Engineering\\10-prompt-engineering-for-aidd\\01-understanding-ai-agents.md"
+  },
+  {
+    "type": "page",
+    "title": "Anatomy of Effective Prompts",
+    "breadcrumb": "Markdown Prompt Context Engineering › Prompt Engineering For Aidd",
+    "description": "Markdown Prompt Context Engineering › Prompt Engineering For Aidd",
+    "url": "/docs/Markdown-Prompt-Context-Engineering/prompt-engineering-for-aidd/anatomy-effective-prompts",
+    "_filePath": "03-Markdown-Prompt-Context-Engineering\\10-prompt-engineering-for-aidd\\02-anatomy-effective-prompts.md"
+  },
+  {
+    "type": "page",
+    "title": "Writing Clear Commands - Your First Code Generation",
+    "breadcrumb": "Markdown Prompt Context Engineering › Prompt Engineering For Aidd",
+    "description": "Markdown Prompt Context Engineering › Prompt Engineering For Aidd",
+    "url": "/docs/Markdown-Prompt-Context-Engineering/prompt-engineering-for-aidd/writing-clear-commands",
+    "_filePath": "03-Markdown-Prompt-Context-Engineering\\10-prompt-engineering-for-aidd\\02-writing-clear-commands.md"
+  },
+  {
+    "type": "page",
+    "title": "Iterative Prompt Refinement",
+    "breadcrumb": "Markdown Prompt Context Engineering › Prompt Engineering For Aidd",
+    "description": "Markdown Prompt Context Engineering › Prompt Engineering For Aidd",
+    "url": "/docs/Markdown-Prompt-Context-Engineering/prompt-engineering-for-aidd/iterative-prompt-refinement",
+    "_filePath": "03-Markdown-Prompt-Context-Engineering\\10-prompt-engineering-for-aidd\\03-iterative-prompt-refinement.md"
+  },
+  {
+    "type": "page",
+    "title": "Providing Technical Context - Project-Specific Code",
+    "breadcrumb": "Markdown Prompt Context Engineering › Prompt Engineering For Aidd",
+    "description": "Markdown Prompt Context Engineering › Prompt Engineering For Aidd",
+    "url": "/docs/Markdown-Prompt-Context-Engineering/prompt-engineering-for-aidd/providing-context",
+    "_filePath": "03-Markdown-Prompt-Context-Engineering\\10-prompt-engineering-for-aidd\\03-providing-context.md"
+  },
+  {
+    "type": "page",
+    "title": "Specification-First Prompting",
+    "breadcrumb": "Markdown Prompt Context Engineering › Prompt Engineering For Aidd",
+    "description": "Markdown Prompt Context Engineering › Prompt Engineering For Aidd",
+    "url": "/docs/Markdown-Prompt-Context-Engineering/prompt-engineering-for-aidd/specification-first-prompting",
+    "_filePath": "03-Markdown-Prompt-Context-Engineering\\10-prompt-engineering-for-aidd\\04-specification-first-prompting.md"
+  },
+  {
+    "type": "page",
+    "title": "Specifying Logic - Implementation Steps for Real Features",
+    "breadcrumb": "Markdown Prompt Context Engineering › Prompt Engineering For Aidd",
+    "description": "Markdown Prompt Context Engineering › Prompt Engineering For Aidd",
+    "url": "/docs/Markdown-Prompt-Context-Engineering/prompt-engineering-for-aidd/specifying-logic",
+    "_filePath": "03-Markdown-Prompt-Context-Engineering\\10-prompt-engineering-for-aidd\\04-specifying-logic.md"
+  },
+  {
+    "type": "page",
+    "title": "Question-Driven Development",
+    "breadcrumb": "Markdown Prompt Context Engineering › Prompt Engineering For Aidd",
+    "description": "Markdown Prompt Context Engineering › Prompt Engineering For Aidd",
+    "url": "/docs/Markdown-Prompt-Context-Engineering/prompt-engineering-for-aidd/question-driven-development",
+    "_filePath": "03-Markdown-Prompt-Context-Engineering\\10-prompt-engineering-for-aidd\\05-question-driven-development.md"
+  },
+  {
+    "type": "page",
+    "title": "Validating AI-Generated Code — Safety-First Habits",
+    "breadcrumb": "Markdown Prompt Context Engineering › Prompt Engineering For Aidd",
+    "description": "Markdown Prompt Context Engineering › Prompt Engineering For Aidd",
+    "url": "/docs/Markdown-Prompt-Context-Engineering/prompt-engineering-for-aidd/validating-code",
+    "_filePath": "03-Markdown-Prompt-Context-Engineering\\10-prompt-engineering-for-aidd\\05-validating-code.md"
+  },
+  {
+    "type": "page",
+    "title": "Technical Constraints and Examples — Make AI Code Fit Your Project",
+    "breadcrumb": "Markdown Prompt Context Engineering › Prompt Engineering For Aidd",
+    "description": "Markdown Prompt Context Engineering › Prompt Engineering For Aidd",
+    "url": "/docs/Markdown-Prompt-Context-Engineering/prompt-engineering-for-aidd/constraints-examples",
+    "_filePath": "03-Markdown-Prompt-Context-Engineering\\10-prompt-engineering-for-aidd\\06-constraints-examples.md"
+  },
+  {
+    "type": "page",
+    "title": "Creating Reusable Prompt Templates",
+    "breadcrumb": "Markdown Prompt Context Engineering › Prompt Engineering For Aidd",
+    "description": "Markdown Prompt Context Engineering › Prompt Engineering For Aidd",
+    "url": "/docs/Markdown-Prompt-Context-Engineering/prompt-engineering-for-aidd/reusable-prompt-templates",
+    "_filePath": "03-Markdown-Prompt-Context-Engineering\\10-prompt-engineering-for-aidd\\06-reusable-prompt-templates.md"
+  },
+  {
+    "type": "page",
+    "title": "Question-Driven Development (QDD) and Roleplay — Get Expert, Tailored Code",
+    "breadcrumb": "Markdown Prompt Context Engineering › Prompt Engineering For Aidd",
+    "description": "Markdown Prompt Context Engineering › Prompt Engineering For Aidd",
+    "url": "/docs/Markdown-Prompt-Context-Engineering/prompt-engineering-for-aidd/qdd-roleplay",
+    "_filePath": "03-Markdown-Prompt-Context-Engineering\\10-prompt-engineering-for-aidd\\07-qdd-roleplay.md"
+  },
+  {
+    "type": "page",
+    "title": "Template Selection and Decision Frameworks",
+    "breadcrumb": "Markdown Prompt Context Engineering › Prompt Engineering For Aidd",
+    "description": "Markdown Prompt Context Engineering › Prompt Engineering For Aidd",
+    "url": "/docs/Markdown-Prompt-Context-Engineering/prompt-engineering-for-aidd/template-selection-criteria",
+    "_filePath": "03-Markdown-Prompt-Context-Engineering\\10-prompt-engineering-for-aidd\\07-template-selection-criteria.md"
+  },
+  {
+    "type": "page",
+    "title": "Capstone: Prompt Template Library Specification",
+    "breadcrumb": "Markdown Prompt Context Engineering › Prompt Engineering For Aidd",
+    "description": "Markdown Prompt Context Engineering › Prompt Engineering For Aidd",
+    "url": "/docs/Markdown-Prompt-Context-Engineering/prompt-engineering-for-aidd/capstone-template-library",
+    "_filePath": "03-Markdown-Prompt-Context-Engineering\\10-prompt-engineering-for-aidd\\08-capstone-template-library.md"
+  },
+  {
+    "type": "page",
+    "title": "Mastery Integration and Capstone — Systematize and Ship",
+    "breadcrumb": "Markdown Prompt Context Engineering › Prompt Engineering For Aidd",
+    "description": "Markdown Prompt Context Engineering › Prompt Engineering For Aidd",
+    "url": "/docs/Markdown-Prompt-Context-Engineering/prompt-engineering-for-aidd/mastery-capstone",
+    "_filePath": "03-Markdown-Prompt-Context-Engineering\\10-prompt-engineering-for-aidd\\08-mastery-capstone.md"
+  },
+  {
+    "type": "page",
+    "title": "Chapter 10: Prompt Engineering for AI-Driven Development",
+    "breadcrumb": "Markdown Prompt Context Engineering › Prompt Engineering For Aidd",
+    "description": "Markdown Prompt Context Engineering › Prompt Engineering For Aidd",
+    "url": "/docs/Markdown-Prompt-Context-Engineering/prompt-engineering-for-aidd",
+    "_filePath": "03-Markdown-Prompt-Context-Engineering\\10-prompt-engineering-for-aidd\\README.md"
+  },
+  {
+    "type": "page",
+    "title": "Context Windows and Token Counting",
+    "breadcrumb": "Markdown Prompt Context Engineering › Context Engineering For Ai Driven Development",
+    "description": "Markdown Prompt Context Engineering › Context Engineering For Ai Driven Development",
+    "url": "/docs/Markdown-Prompt-Context-Engineering/context-engineering-for-ai-driven-development/context-windows-token-counting",
+    "_filePath": "03-Markdown-Prompt-Context-Engineering\\11-context-engineering-for-ai-driven-development\\01-context-windows-token-counting.md"
+  },
+  {
+    "type": "page",
+    "title": "What is Context Engineering?",
+    "breadcrumb": "Markdown Prompt Context Engineering › Context Engineering For Ai Driven Development",
+    "description": "Markdown Prompt Context Engineering › Context Engineering For Ai Driven Development",
+    "url": "/docs/Markdown-Prompt-Context-Engineering/context-engineering-for-ai-driven-development/what-is-context-engineering",
+    "_filePath": "03-Markdown-Prompt-Context-Engineering\\11-context-engineering-for-ai-driven-development\\01-what-is-context-engineering.md"
+  },
+  {
+    "type": "page",
+    "title": "Degradation Symptoms and Manual Tracking",
+    "breadcrumb": "Markdown Prompt Context Engineering › Context Engineering For Ai Driven Development",
+    "description": "Markdown Prompt Context Engineering › Context Engineering For Ai Driven Development",
+    "url": "/docs/Markdown-Prompt-Context-Engineering/context-engineering-for-ai-driven-development/degradation-symptoms-manual-tracking",
+    "_filePath": "03-Markdown-Prompt-Context-Engineering\\11-context-engineering-for-ai-driven-development\\02-degradation-symptoms-manual-tracking.md"
+  },
+  {
+    "type": "page",
+    "title": "Understanding Context Windows",
+    "breadcrumb": "Markdown Prompt Context Engineering › Context Engineering For Ai Driven Development",
+    "description": "Markdown Prompt Context Engineering › Context Engineering For Ai Driven Development",
+    "url": "/docs/Markdown-Prompt-Context-Engineering/context-engineering-for-ai-driven-development/understanding-context-windows",
+    "_filePath": "03-Markdown-Prompt-Context-Engineering\\11-context-engineering-for-ai-driven-development\\02-understanding-context-windows.md"
+  },
+  {
+    "type": "page",
+    "title": "Progressive Loading Strategy",
+    "breadcrumb": "Markdown Prompt Context Engineering › Context Engineering For Ai Driven Development",
+    "description": "Markdown Prompt Context Engineering › Context Engineering For Ai Driven Development",
+    "url": "/docs/Markdown-Prompt-Context-Engineering/context-engineering-for-ai-driven-development/progressive-loading-strategy",
+    "_filePath": "03-Markdown-Prompt-Context-Engineering\\11-context-engineering-for-ai-driven-development\\03-progressive-loading-strategy.md"
+  },
+  {
+    "type": "page",
+    "title": "The Six Components of AIDD Context",
+    "breadcrumb": "Markdown Prompt Context Engineering › Context Engineering For Ai Driven Development",
+    "description": "Markdown Prompt Context Engineering › Context Engineering For Ai Driven Development",
+    "url": "/docs/Markdown-Prompt-Context-Engineering/context-engineering-for-ai-driven-development/six-components-aidd-context",
+    "_filePath": "03-Markdown-Prompt-Context-Engineering\\11-context-engineering-for-ai-driven-development\\03-six-components-aidd-context.md"
+  },
+  {
+    "type": "page",
+    "title": "Context Compression and Session Restart",
+    "breadcrumb": "Markdown Prompt Context Engineering › Context Engineering For Ai Driven Development",
+    "description": "Markdown Prompt Context Engineering › Context Engineering For Ai Driven Development",
+    "url": "/docs/Markdown-Prompt-Context-Engineering/context-engineering-for-ai-driven-development/context-compression-session-restart",
+    "_filePath": "03-Markdown-Prompt-Context-Engineering\\11-context-engineering-for-ai-driven-development\\04-context-compression-session-restart.md"
+  },
+  {
+    "type": "page",
+    "title": "Progressive Context Loading\"",
+    "breadcrumb": "Markdown Prompt Context Engineering › Context Engineering For Ai Driven Development",
+    "description": "Markdown Prompt Context Engineering › Context Engineering For Ai Driven Development",
+    "url": "/docs/Markdown-Prompt-Context-Engineering/context-engineering-for-ai-driven-development/progressive-context-loading",
+    "_filePath": "03-Markdown-Prompt-Context-Engineering\\11-context-engineering-for-ai-driven-development\\04-progressive-context-loading.md"
+  },
+  {
+    "type": "page",
+    "title": "Context Compression & Isolation",
+    "breadcrumb": "Markdown Prompt Context Engineering › Context Engineering For Ai Driven Development",
+    "description": "Markdown Prompt Context Engineering › Context Engineering For Ai Driven Development",
+    "url": "/docs/Markdown-Prompt-Context-Engineering/context-engineering-for-ai-driven-development/context-compression-isolation",
+    "_filePath": "03-Markdown-Prompt-Context-Engineering\\11-context-engineering-for-ai-driven-development\\05-context-compression-isolation.md"
+  },
+  {
+    "type": "page",
+    "title": "Context Isolation for Parallel Tasks",
+    "breadcrumb": "Markdown Prompt Context Engineering › Context Engineering For Ai Driven Development",
+    "description": "Markdown Prompt Context Engineering › Context Engineering For Ai Driven Development",
+    "url": "/docs/Markdown-Prompt-Context-Engineering/context-engineering-for-ai-driven-development/context-isolation-parallel-tasks",
+    "_filePath": "03-Markdown-Prompt-Context-Engineering\\11-context-engineering-for-ai-driven-development\\05-context-isolation-parallel-tasks.md"
+  },
+  {
+    "type": "page",
+    "title": "Advanced Context Strategies",
+    "breadcrumb": "Markdown Prompt Context Engineering › Context Engineering For Ai Driven Development",
+    "description": "Markdown Prompt Context Engineering › Context Engineering For Ai Driven Development",
+    "url": "/docs/Markdown-Prompt-Context-Engineering/context-engineering-for-ai-driven-development/advanced-context-strategies",
+    "_filePath": "03-Markdown-Prompt-Context-Engineering\\11-context-engineering-for-ai-driven-development\\06-advanced-context-strategies.md"
+  },
+  {
+    "type": "page",
+    "title": "Memory Files and Persistent Intelligence",
+    "breadcrumb": "Markdown Prompt Context Engineering › Context Engineering For Ai Driven Development",
+    "description": "Markdown Prompt Context Engineering › Context Engineering For Ai Driven Development",
+    "url": "/docs/Markdown-Prompt-Context-Engineering/context-engineering-for-ai-driven-development/memory-files-persistent-intelligence",
+    "_filePath": "03-Markdown-Prompt-Context-Engineering\\11-context-engineering-for-ai-driven-development\\06-memory-files-persistent-intelligence.md"
+  },
+  {
+    "type": "page",
+    "title": "Context Enables Better Specifications",
+    "breadcrumb": "Markdown Prompt Context Engineering › Context Engineering For Ai Driven Development",
+    "description": "Markdown Prompt Context Engineering › Context Engineering For Ai Driven Development",
+    "url": "/docs/Markdown-Prompt-Context-Engineering/context-engineering-for-ai-driven-development/context-enables-better-specifications",
+    "_filePath": "03-Markdown-Prompt-Context-Engineering\\11-context-engineering-for-ai-driven-development\\07-context-enables-better-specifications.md"
+  },
+  {
+    "type": "page",
+    "title": "Tool Selection Framework",
+    "breadcrumb": "Markdown Prompt Context Engineering › Context Engineering For Ai Driven Development",
+    "description": "Markdown Prompt Context Engineering › Context Engineering For Ai Driven Development",
+    "url": "/docs/Markdown-Prompt-Context-Engineering/context-engineering-for-ai-driven-development/tool-selection-framework",
+    "_filePath": "03-Markdown-Prompt-Context-Engineering\\11-context-engineering-for-ai-driven-development\\07-tool-selection-framework.md"
+  },
+  {
+    "type": "page",
+    "title": "Claude Code vs Gemini CLI - Tool Comparison",
+    "breadcrumb": "Markdown Prompt Context Engineering › Context Engineering For Ai Driven Development",
+    "description": "Markdown Prompt Context Engineering › Context Engineering For Ai Driven Development",
+    "url": "/docs/Markdown-Prompt-Context-Engineering/context-engineering-for-ai-driven-development/claude-code-vs-gemini-cli",
+    "_filePath": "03-Markdown-Prompt-Context-Engineering\\11-context-engineering-for-ai-driven-development\\08-claude-code-vs-gemini-cli.md"
+  },
+  {
+    "type": "page",
+    "title": "Hands-On Debugging and Optimization",
+    "breadcrumb": "Markdown Prompt Context Engineering › Context Engineering For Ai Driven Development",
+    "description": "Markdown Prompt Context Engineering › Context Engineering For Ai Driven Development",
+    "url": "/docs/Markdown-Prompt-Context-Engineering/context-engineering-for-ai-driven-development/hands-on-debugging-optimization",
+    "_filePath": "03-Markdown-Prompt-Context-Engineering\\11-context-engineering-for-ai-driven-development\\08-hands-on-debugging-optimization.md"
+  },
+  {
+    "type": "page",
+    "title": "Capstone Spec-Driven Orchestration",
+    "breadcrumb": "Markdown Prompt Context Engineering › Context Engineering For Ai Driven Development",
+    "description": "Markdown Prompt Context Engineering › Context Engineering For Ai Driven Development",
+    "url": "/docs/Markdown-Prompt-Context-Engineering/context-engineering-for-ai-driven-development/capstone-spec-driven-orchestration",
+    "_filePath": "03-Markdown-Prompt-Context-Engineering\\11-context-engineering-for-ai-driven-development\\09-capstone-spec-driven-orchestration.md"
+  },
+  {
+    "type": "page",
+    "title": "Validation, Pitfalls & Best Practices",
+    "breadcrumb": "Markdown Prompt Context Engineering › Context Engineering For Ai Driven Development",
+    "description": "Markdown Prompt Context Engineering › Context Engineering For Ai Driven Development",
+    "url": "/docs/Markdown-Prompt-Context-Engineering/context-engineering-for-ai-driven-development/validation-pitfalls-best-practices",
+    "_filePath": "03-Markdown-Prompt-Context-Engineering\\11-context-engineering-for-ai-driven-development\\09-validation-pitfalls-best-practices.md"
+  },
+  {
+    "type": "page",
+    "title": "Chapter 11: Context Engineering for AI-Driven Development",
+    "breadcrumb": "Markdown Prompt Context Engineering › Context Engineering For Ai Driven Development",
+    "description": "Markdown Prompt Context Engineering › Context Engineering For Ai Driven Development",
+    "url": "/docs/Markdown-Prompt-Context-Engineering/context-engineering-for-ai-driven-development",
+    "_filePath": "03-Markdown-Prompt-Context-Engineering\\11-context-engineering-for-ai-driven-development\\README.md"
+  },
+  {
+    "type": "page",
+    "title": "Part 3: Markdown, Prompt & Context Engineering",
+    "breadcrumb": "Markdown Prompt Context Engineering",
+    "description": "Markdown Prompt Context Engineering",
+    "url": "/docs/Markdown-Prompt-Context-Engineering",
+    "_filePath": "03-Markdown-Prompt-Context-Engineering\\README.md"
+  },
+  {
+    "type": "page",
+    "title": "Why UV? Understanding Modern Python Package Management",
+    "breadcrumb": "Python Fundamentals › Python Uv Package Manager",
+    "description": "Python Fundamentals › Python Uv Package Manager",
+    "url": "/docs/Python-Fundamentals/python-uv-package-manager/why-uv-understanding-modern-package-management",
+    "_filePath": "04-Python-Fundamentals\\12-python-uv-package-manager\\01-why-uv-understanding-modern-package-management.md"
+  },
+  {
+    "type": "page",
+    "title": "Installing UV with AI Collaboration",
+    "breadcrumb": "Python Fundamentals › Python Uv Package Manager",
+    "description": "Python Fundamentals › Python Uv Package Manager",
+    "url": "/docs/Python-Fundamentals/python-uv-package-manager/installing-uv-with-ai-collaboration",
+    "_filePath": "04-Python-Fundamentals\\12-python-uv-package-manager\\02-installing-uv-with-ai-collaboration.md"
+  },
+  {
+    "type": "page",
+    "title": "Creating Your First UV Project",
+    "breadcrumb": "Python Fundamentals › Python Uv Package Manager",
+    "description": "Python Fundamentals › Python Uv Package Manager",
+    "url": "/docs/Python-Fundamentals/python-uv-package-manager/creating-first-uv-project-with-ai",
+    "_filePath": "04-Python-Fundamentals\\12-python-uv-package-manager\\03-creating-first-uv-project-with-ai.md"
+  },
+  {
+    "type": "page",
+    "title": "Managing Dependencies with AI",
+    "breadcrumb": "Python Fundamentals › Python Uv Package Manager",
+    "description": "Python Fundamentals › Python Uv Package Manager",
+    "url": "/docs/Python-Fundamentals/python-uv-package-manager/managing-dependencies-with-ai",
+    "_filePath": "04-Python-Fundamentals\\12-python-uv-package-manager\\04-managing-dependencies-with-ai.md"
+  },
+  {
+    "type": "page",
+    "title": "Running Python Code in UV Projects with AI",
+    "breadcrumb": "Python Fundamentals › Python Uv Package Manager",
+    "description": "Python Fundamentals › Python Uv Package Manager",
+    "url": "/docs/Python-Fundamentals/python-uv-package-manager/running-code-in-uv-projects-with-ai",
+    "_filePath": "04-Python-Fundamentals\\12-python-uv-package-manager\\05-running-code-in-uv-projects-with-ai.md"
+  },
+  {
+    "type": "page",
+    "title": "Team Collaboration and Reproducible Environments with AI",
+    "breadcrumb": "Python Fundamentals › Python Uv Package Manager",
+    "description": "Python Fundamentals › Python Uv Package Manager",
+    "url": "/docs/Python-Fundamentals/python-uv-package-manager/team-collaboration-reproducible-environments",
+    "_filePath": "04-Python-Fundamentals\\12-python-uv-package-manager\\06-team-collaboration-reproducible-environments.md"
+  },
+  {
+    "type": "page",
+    "title": "Zed IDE for Python Development",
+    "breadcrumb": "Python Fundamentals › Python Uv Package Manager",
+    "description": "Python Fundamentals › Python Uv Package Manager",
+    "url": "/docs/Python-Fundamentals/python-uv-package-manager/zed-ide-for-python-development",
+    "_filePath": "04-Python-Fundamentals\\12-python-uv-package-manager\\07-zed-ide-for-python-development.md"
+  },
+  {
+    "type": "page",
+    "title": "Ruff Linter & Formatter Basics",
+    "breadcrumb": "Python Fundamentals › Python Uv Package Manager",
+    "description": "Python Fundamentals › Python Uv Package Manager",
+    "url": "/docs/Python-Fundamentals/python-uv-package-manager/ruff-linter-formatter-basics",
+    "_filePath": "04-Python-Fundamentals\\12-python-uv-package-manager\\08-ruff-linter-formatter-basics.md"
+  },
+  {
+    "type": "page",
+    "title": "Ruff Configuration with AI",
+    "breadcrumb": "Python Fundamentals › Python Uv Package Manager",
+    "description": "Python Fundamentals › Python Uv Package Manager",
+    "url": "/docs/Python-Fundamentals/python-uv-package-manager/advanced-ruff-configuration",
+    "_filePath": "04-Python-Fundamentals\\12-python-uv-package-manager\\09-advanced-ruff-configuration.md"
+  },
+  {
+    "type": "page",
+    "title": "Pyright Type Checker",
+    "breadcrumb": "Python Fundamentals › Python Uv Package Manager",
+    "description": "Python Fundamentals › Python Uv Package Manager",
+    "url": "/docs/Python-Fundamentals/python-uv-package-manager/pyright-type-checker",
+    "_filePath": "04-Python-Fundamentals\\12-python-uv-package-manager\\10-pyright-type-checker.md"
+  },
+  {
+    "type": "page",
+    "title": "Chapter 12: Python UV Quiz",
+    "breadcrumb": "Python Fundamentals › Python Uv Package Manager",
+    "description": "Python Fundamentals › Python Uv Package Manager",
+    "url": "/docs/Python-Fundamentals/python-uv-package-manager/11_chapter_12_quiz",
+    "_filePath": "04-Python-Fundamentals\\12-python-uv-package-manager\\11_chapter_12_quiz.md"
+  },
+  {
+    "type": "page",
+    "title": "Chapter 12: The Lightning Python Stack — uv, Zed, Ruff & Pyright",
+    "breadcrumb": "Python Fundamentals › Python Uv Package Manager",
+    "description": "Python Fundamentals › Python Uv Package Manager",
+    "url": "/docs/Python-Fundamentals/python-uv-package-manager",
+    "_filePath": "04-Python-Fundamentals\\12-python-uv-package-manager\\readme.md"
+  },
+  {
+    "type": "page",
+    "title": "What Is Python?",
+    "breadcrumb": "Python Fundamentals › Introduction To Python",
+    "description": "Python Fundamentals › Introduction To Python",
+    "url": "/docs/Python-Fundamentals/introduction-to-python/what-is-python",
+    "_filePath": "04-Python-Fundamentals\\13-introduction-to-python\\01-what-is-python.md"
+  },
+  {
+    "type": "page",
+    "title": "Installing Python 3.14+ on Your Computer",
+    "breadcrumb": "Python Fundamentals › Introduction To Python",
+    "description": "Python Fundamentals › Introduction To Python",
+    "url": "/docs/Python-Fundamentals/introduction-to-python/installing-python",
+    "_filePath": "04-Python-Fundamentals\\13-introduction-to-python\\02-installing-python.md"
+  },
+  {
+    "type": "page",
+    "title": "Variables and Type Hints – Describing Intent",
+    "breadcrumb": "Python Fundamentals › Introduction To Python",
+    "description": "Python Fundamentals › Introduction To Python",
+    "url": "/docs/Python-Fundamentals/introduction-to-python/variables-and-type-hints",
+    "_filePath": "04-Python-Fundamentals\\13-introduction-to-python\\03-variables-and-type-hints.md"
+  },
+  {
+    "type": "page",
+    "title": "Basic Syntax and Your First Programs",
+    "breadcrumb": "Python Fundamentals › Introduction To Python",
+    "description": "Python Fundamentals › Introduction To Python",
+    "url": "/docs/Python-Fundamentals/introduction-to-python/basic-syntax-and-first-programs",
+    "_filePath": "04-Python-Fundamentals\\13-introduction-to-python\\04-basic-syntax-and-first-programs.md"
+  },
+  {
+    "type": "page",
+    "title": "Capstone Project – Personal Information Collector",
+    "breadcrumb": "Python Fundamentals › Introduction To Python",
+    "description": "Python Fundamentals › Introduction To Python",
+    "url": "/docs/Python-Fundamentals/introduction-to-python/capstone-project",
+    "_filePath": "04-Python-Fundamentals\\13-introduction-to-python\\05-capstone-project.md"
+  },
+  {
+    "type": "page",
+    "title": "Chapter 13: Introduction to Modern Python",
+    "breadcrumb": "Python Fundamentals › Introduction To Python",
+    "description": "Python Fundamentals › Introduction To Python",
+    "url": "/docs/Python-Fundamentals/introduction-to-python",
+    "_filePath": "04-Python-Fundamentals\\13-introduction-to-python\\readme.md"
+  },
+  {
+    "type": "page",
+    "title": "Understanding Data Types: What and Why",
+    "breadcrumb": "Python Fundamentals › Data Types",
+    "description": "Python Fundamentals › Data Types",
+    "url": "/docs/Python-Fundamentals/data-types/understanding-data-types",
+    "_filePath": "04-Python-Fundamentals\\14-data-types\\01-understanding-data-types.md"
+  },
+  {
+    "type": "page",
+    "title": "Numeric Types: Integers, Floats, and Complex Numbers",
+    "breadcrumb": "Python Fundamentals › Data Types",
+    "description": "Python Fundamentals › Data Types",
+    "url": "/docs/Python-Fundamentals/data-types/numeric-types",
+    "_filePath": "04-Python-Fundamentals\\14-data-types\\02-numeric-types.md"
+  },
+  {
+    "type": "page",
+    "title": "Text, Boolean, and None — Representing Meaning Beyond Numbers",
+    "breadcrumb": "Python Fundamentals › Data Types",
+    "description": "Python Fundamentals › Data Types",
+    "url": "/docs/Python-Fundamentals/data-types/text-boolean-none",
+    "_filePath": "04-Python-Fundamentals\\14-data-types\\03-text-boolean-none.md"
+  },
+  {
+    "type": "page",
+    "title": "Collections and Binary Types — Awareness Level",
+    "breadcrumb": "Python Fundamentals › Data Types",
+    "description": "Python Fundamentals › Data Types",
+    "url": "/docs/Python-Fundamentals/data-types/collections-and-binary-types",
+    "_filePath": "04-Python-Fundamentals\\14-data-types\\04-collections-and-binary-types.md"
+  },
+  {
+    "type": "page",
+    "title": "Type Utilities and Capstone Project",
+    "breadcrumb": "Python Fundamentals › Data Types",
+    "description": "Python Fundamentals › Data Types",
+    "url": "/docs/Python-Fundamentals/data-types/type-utilities-and-capstone",
+    "_filePath": "04-Python-Fundamentals\\14-data-types\\05-type-utilities-and-capstone.md"
+  },
+  {
+    "type": "page",
+    "title": "Chapter 14: Understanding Python Data Types",
+    "breadcrumb": "Python Fundamentals › Data Types",
+    "description": "Python Fundamentals › Data Types",
+    "url": "/docs/Python-Fundamentals/data-types",
+    "_filePath": "04-Python-Fundamentals\\14-data-types\\readme.md"
+  },
+  {
+    "type": "page",
+    "title": "Arithmetic Operators — Doing Math with Python",
+    "breadcrumb": "Python Fundamentals › Operators Keywords Variables",
+    "description": "Python Fundamentals › Operators Keywords Variables",
+    "url": "/docs/Python-Fundamentals/operators-keywords-variables/arithmetic-operators",
+    "_filePath": "04-Python-Fundamentals\\15-operators-keywords-variables\\01-arithmetic-operators.md"
+  },
+  {
+    "type": "page",
+    "title": "Comparison Operators — Making True/False Decisions",
+    "breadcrumb": "Python Fundamentals › Operators Keywords Variables",
+    "description": "Python Fundamentals › Operators Keywords Variables",
+    "url": "/docs/Python-Fundamentals/operators-keywords-variables/comparison-operators",
+    "_filePath": "04-Python-Fundamentals\\15-operators-keywords-variables\\02-comparison-operators.md"
+  },
+  {
+    "type": "page",
+    "title": "Logical Operators — Combining Conditions",
+    "breadcrumb": "Python Fundamentals › Operators Keywords Variables",
+    "description": "Python Fundamentals › Operators Keywords Variables",
+    "url": "/docs/Python-Fundamentals/operators-keywords-variables/logical-operators",
+    "_filePath": "04-Python-Fundamentals\\15-operators-keywords-variables\\03-logical-operators.mdx"
+  },
+  {
+    "type": "page",
+    "title": "Assignment Operators — Updating Variables Efficiently",
+    "breadcrumb": "Python Fundamentals › Operators Keywords Variables",
+    "description": "Python Fundamentals › Operators Keywords Variables",
+    "url": "/docs/Python-Fundamentals/operators-keywords-variables/assignment-operators",
+    "_filePath": "04-Python-Fundamentals\\15-operators-keywords-variables\\04-assignment-operators.md"
+  },
+  {
+    "type": "page",
+    "title": "Keywords and Capstone: Building a Type-Safe Calculator",
+    "breadcrumb": "Python Fundamentals › Operators Keywords Variables",
+    "description": "Python Fundamentals › Operators Keywords Variables",
+    "url": "/docs/Python-Fundamentals/operators-keywords-variables/keywords-capstone",
+    "_filePath": "04-Python-Fundamentals\\15-operators-keywords-variables\\05-keywords-capstone.mdx"
+  },
+  {
+    "type": "page",
+    "title": "Chapter 15: Operators, Keywords, and Variables",
+    "breadcrumb": "Python Fundamentals › Operators Keywords Variables",
+    "description": "Python Fundamentals › Operators Keywords Variables",
+    "url": "/docs/Python-Fundamentals/operators-keywords-variables",
+    "_filePath": "04-Python-Fundamentals\\15-operators-keywords-variables\\readme.md"
+  },
+  {
+    "type": "page",
+    "title": "String Fundamentals — Creating and Understanding Text",
+    "breadcrumb": "Python Fundamentals › Strings Type Casting",
+    "description": "Python Fundamentals › Strings Type Casting",
+    "url": "/docs/Python-Fundamentals/strings-type-casting/string-fundamentals",
+    "_filePath": "04-Python-Fundamentals\\16-strings-type-casting\\01-string-fundamentals.md"
+  },
+  {
+    "type": "page",
+    "title": "Essential String Methods — Transforming Text",
+    "breadcrumb": "Python Fundamentals › Strings Type Casting",
+    "description": "Python Fundamentals › Strings Type Casting",
+    "url": "/docs/Python-Fundamentals/strings-type-casting/essential-string-methods",
+    "_filePath": "04-Python-Fundamentals\\16-strings-type-casting\\02-essential-string-methods.md"
+  },
+  {
+    "type": "page",
+    "title": "String Formatting with F-Strings — Creating Dynamic Output",
+    "breadcrumb": "Python Fundamentals › Strings Type Casting",
+    "description": "Python Fundamentals › Strings Type Casting",
+    "url": "/docs/Python-Fundamentals/strings-type-casting/f-string-formatting",
+    "_filePath": "04-Python-Fundamentals\\16-strings-type-casting\\03-f-string-formatting.md"
+  },
+  {
+    "type": "page",
+    "title": "Type Casting Fundamentals: Converting Between Types Safely",
+    "breadcrumb": "Python Fundamentals › Strings Type Casting",
+    "description": "Python Fundamentals › Strings Type Casting",
+    "url": "/docs/Python-Fundamentals/strings-type-casting/type-casting-fundamentals",
+    "_filePath": "04-Python-Fundamentals\\16-strings-type-casting\\04-type-casting-fundamentals.md"
+  },
+  {
+    "type": "page",
+    "title": "Contact Card Validator: Real-World Integration Project",
+    "breadcrumb": "Python Fundamentals › Strings Type Casting",
+    "description": "Python Fundamentals › Strings Type Casting",
+    "url": "/docs/Python-Fundamentals/strings-type-casting/interactive-string-explorer",
+    "_filePath": "04-Python-Fundamentals\\16-strings-type-casting\\05-interactive-string-explorer.md"
+  },
+  {
+    "type": "page",
+    "title": "Chapter 16: Strings and Type Casting",
+    "breadcrumb": "Python Fundamentals › Strings Type Casting",
+    "description": "Python Fundamentals › Strings Type Casting",
+    "url": "/docs/Python-Fundamentals/strings-type-casting",
+    "_filePath": "04-Python-Fundamentals\\16-strings-type-casting\\readme.md"
+  },
+  {
+    "type": "page",
+    "title": "Making Decisions with Conditionals",
+    "breadcrumb": "Python Fundamentals › Control Flow Loops",
+    "description": "Python Fundamentals › Control Flow Loops",
+    "url": "/docs/Python-Fundamentals/control-flow-loops/making-decisions-with-conditionals",
+    "_filePath": "04-Python-Fundamentals\\17-control-flow-loops\\01-making-decisions-with-conditionals.md"
+  },
+  {
+    "type": "page",
+    "title": "Pattern Matching with match-case",
+    "breadcrumb": "Python Fundamentals › Control Flow Loops",
+    "description": "Python Fundamentals › Control Flow Loops",
+    "url": "/docs/Python-Fundamentals/control-flow-loops/pattern-matching-with-match-case",
+    "_filePath": "04-Python-Fundamentals\\17-control-flow-loops\\02-pattern-matching-with-match-case.md"
+  },
+  {
+    "type": "page",
+    "title": "Repetition with Loops",
+    "breadcrumb": "Python Fundamentals › Control Flow Loops",
+    "description": "Python Fundamentals › Control Flow Loops",
+    "url": "/docs/Python-Fundamentals/control-flow-loops/repetition-with-loops",
+    "_filePath": "04-Python-Fundamentals\\17-control-flow-loops\\03-repetition-with-loops.md"
+  },
+  {
+    "type": "page",
+    "title": "Controlling Loops",
+    "breadcrumb": "Python Fundamentals › Control Flow Loops",
+    "description": "Python Fundamentals › Control Flow Loops",
+    "url": "/docs/Python-Fundamentals/control-flow-loops/controlling-loops",
+    "_filePath": "04-Python-Fundamentals\\17-control-flow-loops\\04-controlling-loops.md"
+  },
+  {
+    "type": "page",
+    "title": "Nested Control Structures",
+    "breadcrumb": "Python Fundamentals › Control Flow Loops",
+    "description": "Python Fundamentals › Control Flow Loops",
+    "url": "/docs/Python-Fundamentals/control-flow-loops/nested-control-structures",
+    "_filePath": "04-Python-Fundamentals\\17-control-flow-loops\\05-nested-control-structures.md"
+  },
+  {
+    "type": "page",
+    "title": "Chapter 17: Control Flow and Loops",
+    "breadcrumb": "Python Fundamentals › Control Flow Loops",
+    "description": "Python Fundamentals › Control Flow Loops",
+    "url": "/docs/Python-Fundamentals/control-flow-loops",
+    "_filePath": "04-Python-Fundamentals\\17-control-flow-loops\\README.md"
+  },
+  {
+    "type": "page",
+    "title": "Introduction to Collections — Why They Matter",
+    "breadcrumb": "Python Fundamentals › Lists Tuples Dictionary",
+    "description": "Python Fundamentals › Lists Tuples Dictionary",
+    "url": "/docs/Python-Fundamentals/lists-tuples-dictionary/introduction-to-collections",
+    "_filePath": "04-Python-Fundamentals\\18-lists-tuples-dictionary\\01-introduction-to-collections.md"
+  },
+  {
+    "type": "page",
+    "title": "Lists Part 1 — Creation and Basic Operations",
+    "breadcrumb": "Python Fundamentals › Lists Tuples Dictionary",
+    "description": "Python Fundamentals › Lists Tuples Dictionary",
+    "url": "/docs/Python-Fundamentals/lists-tuples-dictionary/lists-creation-and-basics",
+    "_filePath": "04-Python-Fundamentals\\18-lists-tuples-dictionary\\02-lists-creation-and-basics.md"
+  },
+  {
+    "type": "page",
+    "title": "Lists Part 2 — Mutability and Modification Methods",
+    "breadcrumb": "Python Fundamentals › Lists Tuples Dictionary",
+    "description": "Python Fundamentals › Lists Tuples Dictionary",
+    "url": "/docs/Python-Fundamentals/lists-tuples-dictionary/lists-mutability-and-modification",
+    "_filePath": "04-Python-Fundamentals\\18-lists-tuples-dictionary\\03-lists-mutability-and-modification.md"
+  },
+  {
+    "type": "page",
+    "title": "Lists Part 3 - Sorting, Reversing, and Advanced Methods",
+    "breadcrumb": "Python Fundamentals › Lists Tuples Dictionary",
+    "description": "Python Fundamentals › Lists Tuples Dictionary",
+    "url": "/docs/Python-Fundamentals/lists-tuples-dictionary/lists-sorting-and-advanced-methods",
+    "_filePath": "04-Python-Fundamentals\\18-lists-tuples-dictionary\\04-lists-sorting-and-advanced-methods.md"
+  },
+  {
+    "type": "page",
+    "title": "List Comprehensions — Transforming Data",
+    "breadcrumb": "Python Fundamentals › Lists Tuples Dictionary",
+    "description": "Python Fundamentals › Lists Tuples Dictionary",
+    "url": "/docs/Python-Fundamentals/lists-tuples-dictionary/list-comprehensions",
+    "_filePath": "04-Python-Fundamentals\\18-lists-tuples-dictionary\\05-list-comprehensions.md"
+  },
+  {
+    "type": "page",
+    "title": "Tuples — Immutable Sequences",
+    "breadcrumb": "Python Fundamentals › Lists Tuples Dictionary",
+    "description": "Python Fundamentals › Lists Tuples Dictionary",
+    "url": "/docs/Python-Fundamentals/lists-tuples-dictionary/tuples-immutable-sequences",
+    "_filePath": "04-Python-Fundamentals\\18-lists-tuples-dictionary\\06-tuples-immutable-sequences.md"
+  },
+  {
+    "type": "page",
+    "title": "Dictionaries Part 1 - Key-Value Mappings",
+    "breadcrumb": "Python Fundamentals › Lists Tuples Dictionary",
+    "description": "Python Fundamentals › Lists Tuples Dictionary",
+    "url": "/docs/Python-Fundamentals/lists-tuples-dictionary/dicts-key-value-basics",
+    "_filePath": "04-Python-Fundamentals\\18-lists-tuples-dictionary\\07-dicts-key-value-basics.md"
+  },
+  {
+    "type": "page",
+    "title": "Dictionaries Part 2 — CRUD Operations",
+    "breadcrumb": "Python Fundamentals › Lists Tuples Dictionary",
+    "description": "Python Fundamentals › Lists Tuples Dictionary",
+    "url": "/docs/Python-Fundamentals/lists-tuples-dictionary/dicts-crud-operations",
+    "_filePath": "04-Python-Fundamentals\\18-lists-tuples-dictionary\\08-dicts-crud-operations.md"
+  },
+  {
+    "type": "page",
+    "title": "Dictionaries Part 3 — Iteration and Comprehensions",
+    "breadcrumb": "Python Fundamentals › Lists Tuples Dictionary",
+    "description": "Python Fundamentals › Lists Tuples Dictionary",
+    "url": "/docs/Python-Fundamentals/lists-tuples-dictionary/dicts-iteration-and-comprehensions",
+    "_filePath": "04-Python-Fundamentals\\18-lists-tuples-dictionary\\09-dicts-iteration-and-comprehensions.md"
+  },
+  {
+    "type": "page",
+    "title": "Choosing the Right Structure",
+    "breadcrumb": "Python Fundamentals › Lists Tuples Dictionary",
+    "description": "Python Fundamentals › Lists Tuples Dictionary",
+    "url": "/docs/Python-Fundamentals/lists-tuples-dictionary/choosing-the-right-structure",
+    "_filePath": "04-Python-Fundamentals\\18-lists-tuples-dictionary\\10-choosing-the-right-structure.md"
+  },
+  {
+    "type": "page",
+    "title": "Capstone - Data Processing Pipeline",
+    "breadcrumb": "Python Fundamentals › Lists Tuples Dictionary",
+    "description": "Python Fundamentals › Lists Tuples Dictionary",
+    "url": "/docs/Python-Fundamentals/lists-tuples-dictionary/capstone-data-processing-pipeline",
+    "_filePath": "04-Python-Fundamentals\\18-lists-tuples-dictionary\\11-capstone-data-processing-pipeline.md"
+  },
+  {
+    "type": "page",
+    "title": "Chapter 18: Lists, Tuples, and Dictionary",
+    "breadcrumb": "Python Fundamentals › Lists Tuples Dictionary",
+    "description": "Python Fundamentals › Lists Tuples Dictionary",
+    "url": "/docs/Python-Fundamentals/lists-tuples-dictionary",
+    "_filePath": "04-Python-Fundamentals\\18-lists-tuples-dictionary\\readme.md"
+  },
+  {
+    "type": "page",
+    "title": "Set Basics",
+    "breadcrumb": "Python Fundamentals › Set Frozenset Gc",
+    "description": "Python Fundamentals › Set Frozenset Gc",
+    "url": "/docs/Python-Fundamentals/set-frozenset-gc/set-basics",
+    "_filePath": "04-Python-Fundamentals\\19-set-frozenset-gc\\01-set-basics.md"
+  },
+  {
+    "type": "page",
+    "title": "Set Operations",
+    "breadcrumb": "Python Fundamentals › Set Frozenset Gc",
+    "description": "Python Fundamentals › Set Frozenset Gc",
+    "url": "/docs/Python-Fundamentals/set-frozenset-gc/set-operations",
+    "_filePath": "04-Python-Fundamentals\\19-set-frozenset-gc\\02-set-operations.md"
+  },
+  {
+    "type": "page",
+    "title": "Understanding Set Internals — Hashing and O(1) Lookup",
+    "breadcrumb": "Python Fundamentals › Set Frozenset Gc",
+    "description": "Python Fundamentals › Set Frozenset Gc",
+    "url": "/docs/Python-Fundamentals/set-frozenset-gc/set-internals-hashing",
+    "_filePath": "04-Python-Fundamentals\\19-set-frozenset-gc\\03-set-internals-hashing.md"
+  },
+  {
+    "type": "page",
+    "title": "Frozensets — Immutable Sets for Hashable Contexts",
+    "breadcrumb": "Python Fundamentals › Set Frozenset Gc",
+    "description": "Python Fundamentals › Set Frozenset Gc",
+    "url": "/docs/Python-Fundamentals/set-frozenset-gc/frozensets",
+    "_filePath": "04-Python-Fundamentals\\19-set-frozenset-gc\\04-frozensets.md"
+  },
+  {
+    "type": "page",
+    "title": "Garbage Collection",
+    "breadcrumb": "Python Fundamentals › Set Frozenset Gc",
+    "description": "Python Fundamentals › Set Frozenset Gc",
+    "url": "/docs/Python-Fundamentals/set-frozenset-gc/garbage-collection",
+    "_filePath": "04-Python-Fundamentals\\19-set-frozenset-gc\\05-garbage-collection.md"
+  },
+  {
+    "type": "page",
+    "title": "Memory Profiler Capstone — Building an Object Tracking Tool",
+    "breadcrumb": "Python Fundamentals › Set Frozenset Gc",
+    "description": "Python Fundamentals › Set Frozenset Gc",
+    "url": "/docs/Python-Fundamentals/set-frozenset-gc/memory-profiler-capstone",
+    "_filePath": "04-Python-Fundamentals\\19-set-frozenset-gc\\06-memory-profiler-capstone.md"
+  },
+  {
+    "type": "page",
+    "title": "Chapter 19: Set, Frozen Set, and GC",
+    "breadcrumb": "Python Fundamentals › Set Frozenset Gc",
+    "description": "Python Fundamentals › Set Frozenset Gc",
+    "url": "/docs/Python-Fundamentals/set-frozenset-gc",
+    "_filePath": "04-Python-Fundamentals\\19-set-frozenset-gc\\readme.md"
+  },
+  {
+    "type": "page",
+    "title": "Lesson 1: Understanding Modules and Imports",
+    "breadcrumb": "Python Fundamentals › Module Functions",
+    "description": "Python Fundamentals › Module Functions",
+    "url": "/docs/Python-Fundamentals/module-functions/understanding-modules-imports",
+    "_filePath": "04-Python-Fundamentals\\20-module-functions\\01-understanding-modules-imports.md"
+  },
+  {
+    "type": "page",
+    "title": "Lesson 2: Writing Functions with Intent",
+    "breadcrumb": "Python Fundamentals › Module Functions",
+    "description": "Python Fundamentals › Module Functions",
+    "url": "/docs/Python-Fundamentals/module-functions/writing-functions-intent",
+    "_filePath": "04-Python-Fundamentals\\20-module-functions\\02-writing-functions-intent.md"
+  },
+  {
+    "type": "page",
+    "title": "Lesson 3: Function Parameters and Returns",
+    "breadcrumb": "Python Fundamentals › Module Functions",
+    "description": "Python Fundamentals › Module Functions",
+    "url": "/docs/Python-Fundamentals/module-functions/function-parameters-returns",
+    "_filePath": "04-Python-Fundamentals\\20-module-functions\\03-function-parameters-returns.md"
+  },
+  {
+    "type": "page",
+    "title": "Lesson 4: Scope and Nested Functions",
+    "breadcrumb": "Python Fundamentals › Module Functions",
+    "description": "Python Fundamentals › Module Functions",
+    "url": "/docs/Python-Fundamentals/module-functions/scope-nested-functions",
+    "_filePath": "04-Python-Fundamentals\\20-module-functions\\04-scope-nested-functions.md"
+  },
+  {
+    "type": "page",
+    "title": "Lesson 5: Building a Calculator Utility (Capstone Project)",
+    "breadcrumb": "Python Fundamentals › Module Functions",
+    "description": "Python Fundamentals › Module Functions",
+    "url": "/docs/Python-Fundamentals/module-functions/calculator-utility-capstone",
+    "_filePath": "04-Python-Fundamentals\\20-module-functions\\05-calculator-utility-capstone.md"
+  },
+  {
+    "type": "page",
+    "title": "Chapter 20: Modules and Functions",
+    "breadcrumb": "Python Fundamentals › Module Functions",
+    "description": "Python Fundamentals › Module Functions",
+    "url": "/docs/Python-Fundamentals/module-functions",
+    "_filePath": "04-Python-Fundamentals\\20-module-functions\\README.md"
+  },
+  {
+    "type": "page",
+    "title": "Exception Fundamentals",
+    "breadcrumb": "Python Fundamentals › Exception Handling",
+    "description": "Python Fundamentals › Exception Handling",
+    "url": "/docs/Python-Fundamentals/exception-handling/exception-fundamentals",
+    "_filePath": "04-Python-Fundamentals\\21-exception-handling\\01-exception-fundamentals.md"
+  },
+  {
+    "type": "page",
+    "title": "Except, Else, and Finally",
+    "breadcrumb": "Python Fundamentals › Exception Handling",
+    "description": "Python Fundamentals › Exception Handling",
+    "url": "/docs/Python-Fundamentals/exception-handling/except-else-finally",
+    "_filePath": "04-Python-Fundamentals\\21-exception-handling\\02-except-else-finally.md"
+  },
+  {
+    "type": "page",
+    "title": "Raising and Custom Exceptions",
+    "breadcrumb": "Python Fundamentals › Exception Handling",
+    "description": "Python Fundamentals › Exception Handling",
+    "url": "/docs/Python-Fundamentals/exception-handling/raising-custom-exceptions",
+    "_filePath": "04-Python-Fundamentals\\21-exception-handling\\03-raising-custom-exceptions.md"
+  },
+  {
+    "type": "page",
+    "title": "Error Handling Strategies – Defensive Programming",
+    "breadcrumb": "Python Fundamentals › Exception Handling",
+    "description": "Python Fundamentals › Exception Handling",
+    "url": "/docs/Python-Fundamentals/exception-handling/error-handling-strategies",
+    "_filePath": "04-Python-Fundamentals\\21-exception-handling\\04-error-handling-strategies.md"
+  },
+  {
+    "type": "page",
+    "title": "Capstone: Robust CSV Parser",
+    "breadcrumb": "Python Fundamentals › Exception Handling",
+    "description": "Python Fundamentals › Exception Handling",
+    "url": "/docs/Python-Fundamentals/exception-handling/capstone-csv-parser",
+    "_filePath": "04-Python-Fundamentals\\21-exception-handling\\05-capstone-csv-parser.md"
+  },
+  {
+    "type": "page",
+    "title": "Chapter 21: Exception Handling",
+    "breadcrumb": "Python Fundamentals › Exception Handling",
+    "description": "Python Fundamentals › Exception Handling",
+    "url": "/docs/Python-Fundamentals/exception-handling",
+    "_filePath": "04-Python-Fundamentals\\21-exception-handling\\readme.md"
+  },
+  {
+    "type": "page",
+    "title": "Console I/O and User Input Validation",
+    "breadcrumb": "Python Fundamentals › Io File Handling",
+    "description": "Python Fundamentals › Io File Handling",
+    "url": "/docs/Python-Fundamentals/io-file-handling/console-io",
+    "_filePath": "04-Python-Fundamentals\\22-io-file-handling\\01-console-io.md"
+  },
+  {
+    "type": "page",
+    "title": "File I/O Fundamentals with Context Managers",
+    "breadcrumb": "Python Fundamentals › Io File Handling",
+    "description": "Python Fundamentals › Io File Handling",
+    "url": "/docs/Python-Fundamentals/io-file-handling/file-io",
+    "_filePath": "04-Python-Fundamentals\\22-io-file-handling\\02-file-io.md"
+  },
+  {
+    "type": "page",
+    "title": "Cross-Platform Path Handling with pathlib",
+    "breadcrumb": "Python Fundamentals › Io File Handling",
+    "description": "Python Fundamentals › Io File Handling",
+    "url": "/docs/Python-Fundamentals/io-file-handling/pathlib",
+    "_filePath": "04-Python-Fundamentals\\22-io-file-handling\\03-pathlib.md"
+  },
+  {
+    "type": "page",
+    "title": "Lesson 4: Structured Data Formats (CSV and JSON)",
+    "breadcrumb": "Python Fundamentals › Io File Handling",
+    "description": "Python Fundamentals › Io File Handling",
+    "url": "/docs/Python-Fundamentals/io-file-handling/csv-json",
+    "_filePath": "04-Python-Fundamentals\\22-io-file-handling\\04-csv-json.md"
+  },
+  {
+    "type": "page",
+    "title": "Capstone - Note-Taking App",
+    "breadcrumb": "Python Fundamentals › Io File Handling",
+    "description": "Python Fundamentals › Io File Handling",
+    "url": "/docs/Python-Fundamentals/io-file-handling/capstone",
+    "_filePath": "04-Python-Fundamentals\\22-io-file-handling\\05-capstone.md"
+  },
+  {
+    "type": "page",
+    "title": "Chapter 22: IO and File Handling",
+    "breadcrumb": "Python Fundamentals › Io File Handling",
+    "description": "Python Fundamentals › Io File Handling",
+    "url": "/docs/Python-Fundamentals/io-file-handling",
+    "_filePath": "04-Python-Fundamentals\\22-io-file-handling\\README.md"
+  },
+  {
+    "type": "page",
+    "title": "Math Module Fundamentals",
+    "breadcrumb": "Python Fundamentals › Math Datetime Calendar",
+    "description": "Python Fundamentals › Math Datetime Calendar",
+    "url": "/docs/Python-Fundamentals/math-datetime-calendar/math-module-fundamentals",
+    "_filePath": "04-Python-Fundamentals\\23-math-datetime-calendar\\01-math-module-fundamentals.md"
+  },
+  {
+    "type": "page",
+    "title": "Time and Epoch Concepts",
+    "breadcrumb": "Python Fundamentals › Math Datetime Calendar",
+    "description": "Python Fundamentals › Math Datetime Calendar",
+    "url": "/docs/Python-Fundamentals/math-datetime-calendar/time-and-epoch-concepts",
+    "_filePath": "04-Python-Fundamentals\\23-math-datetime-calendar\\02-time-and-epoch-concepts.md"
+  },
+  {
+    "type": "page",
+    "title": "Date and Time Objects (Python 3.14)",
+    "breadcrumb": "Python Fundamentals › Math Datetime Calendar",
+    "description": "Python Fundamentals › Math Datetime Calendar",
+    "url": "/docs/Python-Fundamentals/math-datetime-calendar/date-time-objects-python-314",
+    "_filePath": "04-Python-Fundamentals\\23-math-datetime-calendar\\03-date-time-objects-python-314.md"
+  },
+  {
+    "type": "page",
+    "title": "Date/Time Formatting and Manipulation",
+    "breadcrumb": "Python Fundamentals › Math Datetime Calendar",
+    "description": "Python Fundamentals › Math Datetime Calendar",
+    "url": "/docs/Python-Fundamentals/math-datetime-calendar/datetime-formatting-manipulation",
+    "_filePath": "04-Python-Fundamentals\\23-math-datetime-calendar\\04-datetime-formatting-manipulation.md"
+  },
+  {
+    "type": "page",
+    "title": "Calendar and Advanced Math",
+    "breadcrumb": "Python Fundamentals › Math Datetime Calendar",
+    "description": "Python Fundamentals › Math Datetime Calendar",
+    "url": "/docs/Python-Fundamentals/math-datetime-calendar/calendar-advanced-math",
+    "_filePath": "04-Python-Fundamentals\\23-math-datetime-calendar\\05-calendar-advanced-math.md"
+  },
+  {
+    "type": "page",
+    "title": "Capstone: Time Zone Converter Project",
+    "breadcrumb": "Python Fundamentals › Math Datetime Calendar",
+    "description": "Python Fundamentals › Math Datetime Calendar",
+    "url": "/docs/Python-Fundamentals/math-datetime-calendar/capstone-time-zone-converter",
+    "_filePath": "04-Python-Fundamentals\\23-math-datetime-calendar\\06-capstone-time-zone-converter.md"
+  },
+  {
+    "type": "page",
+    "title": "Chapter 23: Math, Date Time Calendar",
+    "breadcrumb": "Python Fundamentals › Math Datetime Calendar",
+    "description": "Python Fundamentals › Math Datetime Calendar",
+    "url": "/docs/Python-Fundamentals/math-datetime-calendar",
+    "_filePath": "04-Python-Fundamentals\\23-math-datetime-calendar\\README.md"
+  },
+  {
+    "type": "page",
+    "title": "What is OOP? Why OOP?",
+    "breadcrumb": "Python Fundamentals › Oop Part 1",
+    "description": "Python Fundamentals › Oop Part 1",
+    "url": "/docs/Python-Fundamentals/oop-part-1/oop-fundamentals",
+    "_filePath": "04-Python-Fundamentals\\24-oop-part-1\\01-oop-fundamentals.md"
+  },
+  {
+    "type": "page",
+    "title": "Classes and Objects Basics",
+    "breadcrumb": "Python Fundamentals › Oop Part 1",
+    "description": "Python Fundamentals › Oop Part 1",
+    "url": "/docs/Python-Fundamentals/oop-part-1/classes-and-objects-basics",
+    "_filePath": "04-Python-Fundamentals\\24-oop-part-1\\02-classes-and-objects-basics.md"
+  },
+  {
+    "type": "page",
+    "title": "Constructors, Destructors, and Attributes",
+    "breadcrumb": "Python Fundamentals › Oop Part 1",
+    "description": "Python Fundamentals › Oop Part 1",
+    "url": "/docs/Python-Fundamentals/oop-part-1/constructors-destructors-attributes",
+    "_filePath": "04-Python-Fundamentals\\24-oop-part-1\\03-constructors-destructors-attributes.md"
+  },
+  {
+    "type": "page",
+    "title": "Encapsulation and Method Types",
+    "breadcrumb": "Python Fundamentals › Oop Part 1",
+    "description": "Python Fundamentals › Oop Part 1",
+    "url": "/docs/Python-Fundamentals/oop-part-1/encapsulation-method-types",
+    "_filePath": "04-Python-Fundamentals\\24-oop-part-1\\04-encapsulation-method-types.md"
+  },
+  {
+    "type": "page",
+    "title": "Game Character System (Capstone)",
+    "breadcrumb": "Python Fundamentals › Oop Part 1",
+    "description": "Python Fundamentals › Oop Part 1",
+    "url": "/docs/Python-Fundamentals/oop-part-1/game-character-capstone",
+    "_filePath": "04-Python-Fundamentals\\24-oop-part-1\\05-game-character-capstone.md"
+  },
+  {
+    "type": "page",
+    "title": "Chapter 24: Object-Oriented Programming - Part 1",
+    "breadcrumb": "Python Fundamentals › Oop Part 1",
+    "description": "Python Fundamentals › Oop Part 1",
+    "url": "/docs/Python-Fundamentals/oop-part-1",
+    "_filePath": "04-Python-Fundamentals\\24-oop-part-1\\README.md"
+  },
+  {
+    "type": "page",
+    "title": "Inheritance and Method Resolution Order",
+    "breadcrumb": "Python Fundamentals › Oop Part 2",
+    "description": "Python Fundamentals › Oop Part 2",
+    "url": "/docs/Python-Fundamentals/oop-part-2/inheritance-mro",
+    "_filePath": "04-Python-Fundamentals\\25-oop-part-2\\01-inheritance-mro.md"
+  },
+  {
+    "type": "page",
+    "title": "Polymorphism and Duck Typing",
+    "breadcrumb": "Python Fundamentals › Oop Part 2",
+    "description": "Python Fundamentals › Oop Part 2",
+    "url": "/docs/Python-Fundamentals/oop-part-2/polymorphism-duck-typing",
+    "_filePath": "04-Python-Fundamentals\\25-oop-part-2\\02-polymorphism-duck-typing.md"
+  },
+  {
+    "type": "page",
+    "title": "Composition Over Inheritance and Code Organization",
+    "breadcrumb": "Python Fundamentals › Oop Part 2",
+    "description": "Python Fundamentals › Oop Part 2",
+    "url": "/docs/Python-Fundamentals/oop-part-2/composition-modules",
+    "_filePath": "04-Python-Fundamentals\\25-oop-part-2\\03-composition-modules.md"
+  },
+  {
+    "type": "page",
+    "title": "Special Methods (Magic Methods)",
+    "breadcrumb": "Python Fundamentals › Oop Part 2",
+    "description": "Python Fundamentals › Oop Part 2",
+    "url": "/docs/Python-Fundamentals/oop-part-2/special-methods",
+    "_filePath": "04-Python-Fundamentals\\25-oop-part-2\\04-special-methods.md"
+  },
+  {
+    "type": "page",
+    "title": "Design Patterns (Capstone)",
+    "breadcrumb": "Python Fundamentals › Oop Part 2",
+    "description": "Python Fundamentals › Oop Part 2",
+    "url": "/docs/Python-Fundamentals/oop-part-2/design-patterns-capstone",
+    "_filePath": "04-Python-Fundamentals\\25-oop-part-2\\05-design-patterns-capstone.md"
+  },
+  {
+    "type": "page",
+    "title": "Chapter 25: Object-Oriented Programming Part II",
+    "breadcrumb": "Python Fundamentals › Oop Part 2",
+    "description": "Python Fundamentals › Oop Part 2",
+    "url": "/docs/Python-Fundamentals/oop-part-2",
+    "_filePath": "04-Python-Fundamentals\\25-oop-part-2\\README.md"
+  },
+  {
+    "type": "page",
+    "title": "Understanding Metaclasses – The Classes That Create Classes",
+    "breadcrumb": "Python Fundamentals › Metaclasses Dataclasses",
+    "description": "Python Fundamentals › Metaclasses Dataclasses",
+    "url": "/docs/Python-Fundamentals/metaclasses-dataclasses/understanding-metaclasses",
+    "_filePath": "04-Python-Fundamentals\\26-metaclasses-dataclasses\\01-understanding-metaclasses.md"
+  },
+  {
+    "type": "page",
+    "title": "Practical Metaclass Patterns – Validation, Registration, and Framework Design",
+    "breadcrumb": "Python Fundamentals › Metaclasses Dataclasses",
+    "description": "Python Fundamentals › Metaclasses Dataclasses",
+    "url": "/docs/Python-Fundamentals/metaclasses-dataclasses/practical-metaclass-patterns",
+    "_filePath": "04-Python-Fundamentals\\26-metaclasses-dataclasses\\02-practical-metaclass-patterns.mdx"
+  },
+  {
+    "type": "page",
+    "title": "Introduction to Dataclasses – Modern Python Data Modeling",
+    "breadcrumb": "Python Fundamentals › Metaclasses Dataclasses",
+    "description": "Python Fundamentals › Metaclasses Dataclasses",
+    "url": "/docs/Python-Fundamentals/metaclasses-dataclasses/introduction-to-dataclasses",
+    "_filePath": "04-Python-Fundamentals\\26-metaclasses-dataclasses\\03-introduction-to-dataclasses.md"
+  },
+  {
+    "type": "page",
+    "title": "Advanced Dataclass Features – Fields, Metadata, Post-Init, and Validation",
+    "breadcrumb": "Python Fundamentals › Metaclasses Dataclasses",
+    "description": "Python Fundamentals › Metaclasses Dataclasses",
+    "url": "/docs/Python-Fundamentals/metaclasses-dataclasses/advanced-dataclass-features",
+    "_filePath": "04-Python-Fundamentals\\26-metaclasses-dataclasses\\04-advanced-dataclass-features.mdx"
+  },
+  {
+    "type": "page",
+    "title": "Metaclasses vs Dataclasses – Choosing the Right Tool",
+    "breadcrumb": "Python Fundamentals › Metaclasses Dataclasses",
+    "description": "Python Fundamentals › Metaclasses Dataclasses",
+    "url": "/docs/Python-Fundamentals/metaclasses-dataclasses/lesson-5-choosing-the-right-tool",
+    "_filePath": "04-Python-Fundamentals\\26-metaclasses-dataclasses\\lesson-5-choosing-the-right-tool.mdx"
+  },
+  {
+    "type": "page",
+    "title": "Chapter 26: Metaclasses and Dataclasses",
+    "breadcrumb": "Python Fundamentals › Metaclasses Dataclasses",
+    "description": "Python Fundamentals › Metaclasses Dataclasses",
+    "url": "/docs/Python-Fundamentals/metaclasses-dataclasses",
+    "_filePath": "04-Python-Fundamentals\\26-metaclasses-dataclasses\\README.md"
+  },
+  {
+    "type": "page",
+    "title": "Introduction to Pydantic and Data Validation",
+    "breadcrumb": "Python Fundamentals › Pydantic Generics",
+    "description": "Python Fundamentals › Pydantic Generics",
+    "url": "/docs/Python-Fundamentals/pydantic-generics/introduction-to-pydantic",
+    "_filePath": "04-Python-Fundamentals\\27-pydantic-generics\\01-introduction-to-pydantic.md"
+  },
+  {
+    "type": "page",
+    "title": "Advanced Pydantic Patterns",
+    "breadcrumb": "Python Fundamentals › Pydantic Generics",
+    "description": "Python Fundamentals › Pydantic Generics",
+    "url": "/docs/Python-Fundamentals/pydantic-generics/advanced-pydantic-patterns",
+    "_filePath": "04-Python-Fundamentals\\27-pydantic-generics\\02-advanced-pydantic-patterns.md"
+  },
+  {
+    "type": "page",
+    "title": "Introduction to Generics and Type Variables",
+    "breadcrumb": "Python Fundamentals › Pydantic Generics",
+    "description": "Python Fundamentals › Pydantic Generics",
+    "url": "/docs/Python-Fundamentals/pydantic-generics/introduction-to-generics",
+    "_filePath": "04-Python-Fundamentals\\27-pydantic-generics\\03-introduction-to-generics.md"
+  },
+  {
+    "type": "page",
+    "title": "Generic Classes and Protocols",
+    "breadcrumb": "Python Fundamentals › Pydantic Generics",
+    "description": "Python Fundamentals › Pydantic Generics",
+    "url": "/docs/Python-Fundamentals/pydantic-generics/generic-classes-and-protocols",
+    "_filePath": "04-Python-Fundamentals\\27-pydantic-generics\\04-generic-classes-and-protocols.md"
+  },
+  {
+    "type": "page",
+    "title": "Pydantic for AI-Native Development",
+    "breadcrumb": "Python Fundamentals › Pydantic Generics",
+    "description": "Python Fundamentals › Pydantic Generics",
+    "url": "/docs/Python-Fundamentals/pydantic-generics/pydantic-for-ai-native-development",
+    "_filePath": "04-Python-Fundamentals\\27-pydantic-generics\\05-pydantic-for-ai-native-development.md"
+  },
+  {
+    "type": "page",
+    "title": "Capstone Project: Type-Safe Configuration Manager",
+    "breadcrumb": "Python Fundamentals › Pydantic Generics",
+    "description": "Python Fundamentals › Pydantic Generics",
+    "url": "/docs/Python-Fundamentals/pydantic-generics/capstone-type-safe-config-manager",
+    "_filePath": "04-Python-Fundamentals\\27-pydantic-generics\\06-capstone-type-safe-config-manager.md"
+  },
+  {
+    "type": "page",
+    "title": "Chapter 27: Pydantic and Generics",
+    "breadcrumb": "Python Fundamentals › Pydantic Generics",
+    "description": "Python Fundamentals › Pydantic Generics",
+    "url": "/docs/Python-Fundamentals/pydantic-generics",
+    "_filePath": "04-Python-Fundamentals\\27-pydantic-generics\\README.md"
+  },
+  {
+    "type": "page",
+    "title": "Asyncio Foundations: Event Loop and Coroutines",
+    "breadcrumb": "Python Fundamentals › Asyncio",
+    "description": "Python Fundamentals › Asyncio",
+    "url": "/docs/Python-Fundamentals/asyncio/asyncio-foundations",
+    "_filePath": "04-Python-Fundamentals\\28-asyncio\\01-asyncio-foundations.md"
+  },
+  {
+    "type": "page",
+    "title": "Concurrent Tasks: create_task(), gather(), and TaskGroup()",
+    "breadcrumb": "Python Fundamentals › Asyncio",
+    "description": "Python Fundamentals › Asyncio",
+    "url": "/docs/Python-Fundamentals/asyncio/concurrent-tasks",
+    "_filePath": "04-Python-Fundamentals\\28-asyncio\\02-concurrent-tasks.md"
+  },
+  {
+    "type": "page",
+    "title": "Advanced Patterns: Timeouts, Futures, and Error Handling",
+    "breadcrumb": "Python Fundamentals › Asyncio",
+    "description": "Python Fundamentals › Asyncio",
+    "url": "/docs/Python-Fundamentals/asyncio/advanced-patterns",
+    "_filePath": "04-Python-Fundamentals\\28-asyncio\\03-advanced-patterns.md"
+  },
+  {
+    "type": "page",
+    "title": "CPU-Bound Work: GIL and InterpreterPoolExecutor",
+    "breadcrumb": "Python Fundamentals › Asyncio",
+    "description": "Python Fundamentals › Asyncio",
+    "url": "/docs/Python-Fundamentals/asyncio/cpu-bound-work-gil",
+    "_filePath": "04-Python-Fundamentals\\28-asyncio\\04-cpu-bound-work-gil.md"
+  },
+  {
+    "type": "page",
+    "title": "Hybrid Workloads: Combining I/O and CPU for Peak Performance",
+    "breadcrumb": "Python Fundamentals › Asyncio",
+    "description": "Python Fundamentals › Asyncio",
+    "url": "/docs/Python-Fundamentals/asyncio/hybrid-workloads",
+    "_filePath": "04-Python-Fundamentals\\28-asyncio\\05-hybrid-workloads.md"
+  },
+  {
+    "type": "page",
+    "title": "Capstone: AI Agent System for Multi-Source Data Processing",
+    "breadcrumb": "Python Fundamentals › Asyncio",
+    "description": "Python Fundamentals › Asyncio",
+    "url": "/docs/Python-Fundamentals/asyncio/capstone-ai-agent",
+    "_filePath": "04-Python-Fundamentals\\28-asyncio\\06-capstone-ai-agent.md"
+  },
+  {
+    "type": "page",
+    "title": "Chapter 28: Asyncio — Concurrent I/O and CPU-Parallel Workloads",
+    "breadcrumb": "Python Fundamentals › Asyncio",
+    "description": "Python Fundamentals › Asyncio",
+    "url": "/docs/Python-Fundamentals/asyncio",
+    "_filePath": "04-Python-Fundamentals\\28-asyncio\\README.md"
+  },
+  {
+    "type": "page",
+    "title": "Lesson 1: What is CPython?",
+    "breadcrumb": "Python Fundamentals › Cpython Gil",
+    "description": "Python Fundamentals › Cpython Gil",
+    "url": "/docs/Python-Fundamentals/cpython-gil/what-is-cpython",
+    "_filePath": "04-Python-Fundamentals\\29-cpython-gil\\01-what-is-cpython.md"
+  },
+  {
+    "type": "page",
+    "title": "Lesson 2: CPython Performance Evolution (Python 3.14)",
+    "breadcrumb": "Python Fundamentals › Cpython Gil",
+    "description": "Python Fundamentals › Cpython Gil",
+    "url": "/docs/Python-Fundamentals/cpython-gil/cpython-performance-evolution",
+    "_filePath": "04-Python-Fundamentals\\29-cpython-gil\\02-cpython-performance-evolution.md"
+  },
+  {
+    "type": "page",
+    "title": "Lesson 3: The Traditional GIL (Pre-3.13)",
+    "breadcrumb": "Python Fundamentals › Cpython Gil",
+    "description": "Python Fundamentals › Cpython Gil",
+    "url": "/docs/Python-Fundamentals/cpython-gil/traditional-gil",
+    "_filePath": "04-Python-Fundamentals\\29-cpython-gil\\03-traditional-gil.md"
+  },
+  {
+    "type": "page",
+    "title": "Lesson 4: Free-Threaded Python (3.14+ Production Ready)",
+    "breadcrumb": "Python Fundamentals › Cpython Gil",
+    "description": "Python Fundamentals › Cpython Gil",
+    "url": "/docs/Python-Fundamentals/cpython-gil/free-threaded-python",
+    "_filePath": "04-Python-Fundamentals\\29-cpython-gil\\04-free-threaded-python.md"
+  },
+  {
+    "type": "page",
+    "title": "Lesson 5: Choosing Your Concurrency Approach",
+    "breadcrumb": "Python Fundamentals › Cpython Gil",
+    "description": "Python Fundamentals › Cpython Gil",
+    "url": "/docs/Python-Fundamentals/cpython-gil/choosing-concurrency",
+    "_filePath": "04-Python-Fundamentals\\29-cpython-gil\\05-choosing-concurrency.md"
+  },
+  {
+    "type": "page",
+    "title": "Lesson 6: Capstone - Multi-Agent Concurrency System",
+    "breadcrumb": "Python Fundamentals › Cpython Gil",
+    "description": "Python Fundamentals › Cpython Gil",
+    "url": "/docs/Python-Fundamentals/cpython-gil/capstone-multi-agent",
+    "_filePath": "04-Python-Fundamentals\\29-cpython-gil\\06-capstone-multi-agent.md"
+  },
+  {
+    "type": "page",
+    "title": "Chapter 29: CPython and GIL",
+    "breadcrumb": "Python Fundamentals › Cpython Gil",
+    "description": "Python Fundamentals › Cpython Gil",
+    "url": "/docs/Python-Fundamentals/cpython-gil",
+    "_filePath": "04-Python-Fundamentals\\29-cpython-gil\\readme.md"
+  },
+  {
+    "type": "page",
+    "title": "Part 4: Python - The Language of AI Agents",
+    "breadcrumb": "Python Fundamentals",
+    "description": "Python Fundamentals",
+    "url": "/docs/Python-Fundamentals",
+    "_filePath": "04-Python-Fundamentals\\README.md"
+  },
+  {
+    "type": "page",
+    "title": "Vague Code and the AI Partner Problem",
+    "breadcrumb": "Spec Driven Development › Specification Driven Development Fundamentals",
+    "description": "Spec Driven Development › Specification Driven Development Fundamentals",
+    "url": "/docs/Spec-Driven-Development/specification-driven-development-fundamentals/vague-code-and-the-ai-partner-problem",
+    "_filePath": "05-Spec-Driven-Development\\30-specification-driven-development-fundamentals\\01-vague-code-and-the-ai-partner-problem.md"
+  },
+  {
+    "type": "page",
+    "title": "Why Do Specs Matter NOW? The AI Moment",
+    "breadcrumb": "Spec Driven Development › Specification Driven Development Fundamentals",
+    "description": "Spec Driven Development › Specification Driven Development Fundamentals",
+    "url": "/docs/Spec-Driven-Development/specification-driven-development-fundamentals/why-specs-matter-now",
+    "_filePath": "05-Spec-Driven-Development\\30-specification-driven-development-fundamentals\\02-why-specs-matter-now.md"
+  },
+  {
+    "type": "page",
+    "title": "Anatomy of a Specification",
+    "breadcrumb": "Spec Driven Development › Specification Driven Development Fundamentals",
+    "description": "Spec Driven Development › Specification Driven Development Fundamentals",
+    "url": "/docs/Spec-Driven-Development/specification-driven-development-fundamentals/what-is-sdd",
+    "_filePath": "05-Spec-Driven-Development\\30-specification-driven-development-fundamentals\\03-what-is-sdd.md"
+  },
+  {
+    "type": "page",
+    "title": "Build Your First Spec: Basic Calculator",
+    "breadcrumb": "Spec Driven Development › Specification Driven Development Fundamentals",
+    "description": "Spec Driven Development › Specification Driven Development Fundamentals",
+    "url": "/docs/Spec-Driven-Development/specification-driven-development-fundamentals/build-your-first-spec-together",
+    "_filePath": "05-Spec-Driven-Development\\30-specification-driven-development-fundamentals\\04-build-your-first-spec-together.md"
+  },
+  {
+    "type": "page",
+    "title": "Your Team Needs Shared Rules: Memory Banks and Constitutions",
+    "breadcrumb": "Spec Driven Development › Specification Driven Development Fundamentals",
+    "description": "Spec Driven Development › Specification Driven Development Fundamentals",
+    "url": "/docs/Spec-Driven-Development/specification-driven-development-fundamentals/your-team-needs-shared-rules",
+    "_filePath": "05-Spec-Driven-Development\\30-specification-driven-development-fundamentals\\05-your-team-needs-shared-rules.md"
+  },
+  {
+    "type": "page",
+    "title": "Introduction to Reusable Intelligence",
+    "breadcrumb": "Spec Driven Development › Specification Driven Development Fundamentals",
+    "description": "Spec Driven Development › Specification Driven Development Fundamentals",
+    "url": "/docs/Spec-Driven-Development/specification-driven-development-fundamentals/introduction-to-reusable-intelligence",
+    "_filePath": "05-Spec-Driven-Development\\30-specification-driven-development-fundamentals\\06-introduction-to-reusable-intelligence.md"
+  },
+  {
+    "type": "page",
+    "title": "Designing Skills and Subagents with P+Q+P",
+    "breadcrumb": "Spec Driven Development › Specification Driven Development Fundamentals",
+    "description": "Spec Driven Development › Specification Driven Development Fundamentals",
+    "url": "/docs/Spec-Driven-Development/specification-driven-development-fundamentals/designing-skills-and-subagents",
+    "_filePath": "05-Spec-Driven-Development\\30-specification-driven-development-fundamentals\\07-designing-skills-and-subagents.md"
+  },
+  {
+    "type": "page",
+    "title": "SDD-RI Framework Landscape & What's Next",
+    "breadcrumb": "Spec Driven Development › Specification Driven Development Fundamentals",
+    "description": "Spec Driven Development › Specification Driven Development Fundamentals",
+    "url": "/docs/Spec-Driven-Development/specification-driven-development-fundamentals/sdd-ri-framework-landscape",
+    "_filePath": "05-Spec-Driven-Development\\30-specification-driven-development-fundamentals\\08-sdd-ri-framework-landscape.md"
+  },
+  {
+    "type": "page",
+    "title": "Chapter 30: Understanding Spec-Driven Development with Reusable Intelligence",
+    "breadcrumb": "Spec Driven Development › Specification Driven Development Fundamentals",
+    "description": "Spec Driven Development › Specification Driven Development Fundamentals",
+    "url": "/docs/Spec-Driven-Development/specification-driven-development-fundamentals",
+    "_filePath": "05-Spec-Driven-Development\\30-specification-driven-development-fundamentals\\README.md"
+  },
+  {
+    "type": "page",
+    "title": "Spec-Kit Plus Foundation: What You're About to Build With",
+    "breadcrumb": "Spec Driven Development › Spec Kit Plus Hands On",
+    "description": "Spec Driven Development › Spec Kit Plus Hands On",
+    "url": "/docs/Spec-Driven-Development/spec-kit-plus-hands-on/spec-kit-plus-foundation",
+    "_filePath": "05-Spec-Driven-Development\\31-spec-kit-plus-hands-on\\01-spec-kit-plus-foundation.md"
+  },
+  {
+    "type": "page",
+    "title": "Installation & Setup - Getting Spec-Kit Plus Running",
+    "breadcrumb": "Spec Driven Development › Spec Kit Plus Hands On",
+    "description": "Spec Driven Development › Spec Kit Plus Hands On",
+    "url": "/docs/Spec-Driven-Development/spec-kit-plus-hands-on/installation-and-setup",
+    "_filePath": "05-Spec-Driven-Development\\31-spec-kit-plus-hands-on\\02-installation-and-setup.md"
+  },
+  {
+    "type": "page",
+    "title": "Constitution Phase - Project-Wide Rules",
+    "breadcrumb": "Spec Driven Development › Spec Kit Plus Hands On",
+    "description": "Spec Driven Development › Spec Kit Plus Hands On",
+    "url": "/docs/Spec-Driven-Development/spec-kit-plus-hands-on/constitution-phase",
+    "_filePath": "05-Spec-Driven-Development\\31-spec-kit-plus-hands-on\\03-constitution-phase.md"
+  },
+  {
+    "type": "page",
+    "title": "Specify Phase - Writing Complete Specifications",
+    "breadcrumb": "Spec Driven Development › Spec Kit Plus Hands On",
+    "description": "Spec Driven Development › Spec Kit Plus Hands On",
+    "url": "/docs/Spec-Driven-Development/spec-kit-plus-hands-on/specify-phase",
+    "_filePath": "05-Spec-Driven-Development\\31-spec-kit-plus-hands-on\\04-specify-phase.md"
+  },
+  {
+    "type": "page",
+    "title": "Clarify Phase - Refining Specs with /sp.clarify",
+    "breadcrumb": "Spec Driven Development › Spec Kit Plus Hands On",
+    "description": "Spec Driven Development › Spec Kit Plus Hands On",
+    "url": "/docs/Spec-Driven-Development/spec-kit-plus-hands-on/clarify-phase",
+    "_filePath": "05-Spec-Driven-Development\\31-spec-kit-plus-hands-on\\05-clarify-phase.md"
+  },
+  {
+    "type": "page",
+    "title": "Plan Phase - Architecture Decisions and ADRs",
+    "breadcrumb": "Spec Driven Development › Spec Kit Plus Hands On",
+    "description": "Spec Driven Development › Spec Kit Plus Hands On",
+    "url": "/docs/Spec-Driven-Development/spec-kit-plus-hands-on/plan-phase",
+    "_filePath": "05-Spec-Driven-Development\\31-spec-kit-plus-hands-on\\06-plan-phase.md"
+  },
+  {
+    "type": "page",
+    "title": "Tasks Phase - Atomic Work Units and Checkpoints",
+    "breadcrumb": "Spec Driven Development › Spec Kit Plus Hands On",
+    "description": "Spec Driven Development › Spec Kit Plus Hands On",
+    "url": "/docs/Spec-Driven-Development/spec-kit-plus-hands-on/tasks-phase",
+    "_filePath": "05-Spec-Driven-Development\\31-spec-kit-plus-hands-on\\07-tasks-phase.md"
+  },
+  {
+    "type": "page",
+    "title": "Implement Phase - AI-Driven Code Generation and Validation",
+    "breadcrumb": "Spec Driven Development › Spec Kit Plus Hands On",
+    "description": "Spec Driven Development › Spec Kit Plus Hands On",
+    "url": "/docs/Spec-Driven-Development/spec-kit-plus-hands-on/implement-phase",
+    "_filePath": "05-Spec-Driven-Development\\31-spec-kit-plus-hands-on\\08-implement-phase.md"
+  },
+  {
+    "type": "page",
+    "title": "Designing Reusable Intelligence from SDD Workflows",
+    "breadcrumb": "Spec Driven Development › Spec Kit Plus Hands On",
+    "description": "Spec Driven Development › Spec Kit Plus Hands On",
+    "url": "/docs/Spec-Driven-Development/spec-kit-plus-hands-on/designing-reusable-intelligence",
+    "_filePath": "05-Spec-Driven-Development\\31-spec-kit-plus-hands-on\\09-designing-reusable-intelligence.md"
+  },
+  {
+    "type": "page",
+    "title": "Chapter 31: Spec-Kit Plus Hands-On",
+    "breadcrumb": "Spec Driven Development › Spec Kit Plus Hands On",
+    "description": "Spec Driven Development › Spec Kit Plus Hands On",
+    "url": "/docs/Spec-Driven-Development/spec-kit-plus-hands-on",
+    "_filePath": "05-Spec-Driven-Development\\31-spec-kit-plus-hands-on\\README.md"
+  },
+  {
+    "type": "page",
+    "title": "Git Worktrees & Parallel Specifications",
+    "breadcrumb": "Spec Driven Development › Ai Orchestra Agent Teams Manager",
+    "description": "Spec Driven Development › Ai Orchestra Agent Teams Manager",
+    "url": "/docs/Spec-Driven-Development/ai-orchestra-agent-teams-manager/git-worktrees-parallel-specifications",
+    "_filePath": "05-Spec-Driven-Development\\32-ai-orchestra-agent-teams-manager\\01-git-worktrees-parallel-specifications.md"
+  },
+  {
+    "type": "page",
+    "title": "Parallel Planning and Tasks: Managing 2-3 Agents Simultaneously",
+    "breadcrumb": "Spec Driven Development › Ai Orchestra Agent Teams Manager",
+    "description": "Spec Driven Development › Ai Orchestra Agent Teams Manager",
+    "url": "/docs/Spec-Driven-Development/ai-orchestra-agent-teams-manager/parallel-planning-and-tasks",
+    "_filePath": "05-Spec-Driven-Development\\32-ai-orchestra-agent-teams-manager\\02-parallel-planning-and-tasks.md"
+  },
+  {
+    "type": "page",
+    "title": "Parallel Implementation & Integration: Proving Decomposition Works",
+    "breadcrumb": "Spec Driven Development › Ai Orchestra Agent Teams Manager",
+    "description": "Spec Driven Development › Ai Orchestra Agent Teams Manager",
+    "url": "/docs/Spec-Driven-Development/ai-orchestra-agent-teams-manager/parallel-implementation-and-integration",
+    "_filePath": "05-Spec-Driven-Development\\32-ai-orchestra-agent-teams-manager\\03-parallel-implementation-and-integration.md"
+  },
+  {
+    "type": "page",
+    "title": "Scaling Decomposition Thinking: From 3 to 5+ Features",
+    "breadcrumb": "Spec Driven Development › Ai Orchestra Agent Teams Manager",
+    "description": "Spec Driven Development › Ai Orchestra Agent Teams Manager",
+    "url": "/docs/Spec-Driven-Development/ai-orchestra-agent-teams-manager/scaling-decomposition-thinking",
+    "_filePath": "05-Spec-Driven-Development\\32-ai-orchestra-agent-teams-manager\\04-scaling-decomposition-thinking.md"
+  },
+  {
+    "type": "page",
+    "title": "Contract-Based Autonomous Coordination",
+    "breadcrumb": "Spec Driven Development › Ai Orchestra Agent Teams Manager",
+    "description": "Spec Driven Development › Ai Orchestra Agent Teams Manager",
+    "url": "/docs/Spec-Driven-Development/ai-orchestra-agent-teams-manager/contract-based-autonomous-coordination",
+    "_filePath": "05-Spec-Driven-Development\\32-ai-orchestra-agent-teams-manager\\05-contract-based-autonomous-coordination.md"
+  },
+  {
+    "type": "page",
+    "title": "SpecKit-Orchestrated Autonomous Execution",
+    "breadcrumb": "Spec Driven Development › Ai Orchestra Agent Teams Manager",
+    "description": "Spec Driven Development › Ai Orchestra Agent Teams Manager",
+    "url": "/docs/Spec-Driven-Development/ai-orchestra-agent-teams-manager/speckit-orchestrated-execution",
+    "_filePath": "05-Spec-Driven-Development\\32-ai-orchestra-agent-teams-manager\\06-speckit-orchestrated-execution.md"
+  },
+  {
+    "type": "page",
+    "title": "Capstone Project: Prove Your Decomposition Skills",
+    "breadcrumb": "Spec Driven Development › Ai Orchestra Agent Teams Manager",
+    "description": "Spec Driven Development › Ai Orchestra Agent Teams Manager",
+    "url": "/docs/Spec-Driven-Development/ai-orchestra-agent-teams-manager/capstone-project-measurement",
+    "_filePath": "05-Spec-Driven-Development\\32-ai-orchestra-agent-teams-manager\\07-capstone-project-measurement.md"
+  },
+  {
+    "type": "page",
+    "title": "Chapter 32: AI Orchestra - Agent Teams Manager",
+    "breadcrumb": "Spec Driven Development › Ai Orchestra Agent Teams Manager",
+    "description": "Spec Driven Development › Ai Orchestra Agent Teams Manager",
+    "url": "/docs/Spec-Driven-Development/ai-orchestra-agent-teams-manager",
+    "_filePath": "05-Spec-Driven-Development\\32-ai-orchestra-agent-teams-manager\\README.md"
+  },
+  {
+    "type": "page",
+    "title": "Chapter 33: Tessl and SpecifyPlus - The Ultimate Workflow",
+    "breadcrumb": "Spec Driven Development › Tessl Framework And Integration",
+    "description": "Spec Driven Development › Tessl Framework And Integration",
+    "url": "/docs/Spec-Driven-Development/tessl-framework-and-integration",
+    "_filePath": "05-Spec-Driven-Development\\33-tessl-framework-and-integration\\README.md"
+  },
+  {
+    "type": "page",
+    "title": "Part 5: Spec-Driven Development",
+    "breadcrumb": "Spec Driven Development",
+    "description": "Spec Driven Development",
+    "url": "/docs/Spec-Driven-Development",
+    "_filePath": "05-Spec-Driven-Development\\README.md"
+  },
+  {
+    "type": "page",
+    "title": "Part 6: AI Native Software Development",
+    "breadcrumb": "AI Native Software Development",
+    "description": "AI Native Software Development",
+    "url": "/docs/AI-Native-Software-Development",
+    "_filePath": "06-AI-Native-Software-Development\\README.md"
+  },
+  {
+    "type": "page",
+    "title": "Preface: Welcome to the AI-Native Era",
+    "breadcrumb": "",
+    "description": "",
+    "url": "/docs/preface-agent-native",
+    "_filePath": "preface-agent-native.md"
+  }
+]

@@ -1,0 +1,300 @@
+.mindmap-modal-overlay {
+  position: fixed;
+  top: 0;
+  left: 0;
+  right: 0;
+  bottom: 0;
+  background: rgba(0, 0, 0, 0.5);
+  z-index: 10000;
+  animation: fadeIn 0.2s ease;
+  pointer-events: none;
+}
+
+@keyframes fadeIn {
+  from {
+    opacity: 0;
+  }
+  to {
+    opacity: 1;
+  }
+}
+
+.mindmap-modal {
+  position: fixed !important;
+  top: 108px !important;
+  right: 0 !important;
+  left: auto !important;
+  bottom: 0 !important;
+  width: 440px !important;
+  max-width: 90vw !important;
+  height: auto !important;
+  max-height: none !important;
+  margin: 0 !important;
+  background: var(--ifm-background-surface-color);
+  border-left: 1px solid var(--ifm-color-emphasis-300);
+  border-radius: 0 !important;
+  box-shadow: -4px 0 24px rgba(0, 0, 0, 0.5);
+  display: flex;
+  flex-direction: column;
+  animation: slideIn 0.3s cubic-bezier(0.16, 1, 0.3, 1);
+  overflow: hidden;
+  z-index: 10001;
+  pointer-events: all;
+  transition: all 0.3s cubic-bezier(0.16, 1, 0.3, 1);
+}
+
+@keyframes slideIn {
+  from {
+    transform: translateX(100%);
+  }
+  to {
+    transform: translateX(0);
+  }
+}
+
+/* Modal Header */
+.mindmap-modal__header {
+  display: flex;
+  align-items: center;
+  justify-content: space-between;
+  padding: 20px 24px;
+  border-bottom: 1px solid var(--ifm-color-emphasis-200);
+  flex-shrink: 0;
+}
+
+.mindmap-modal__title {
+  margin: 0;
+  font-size: 20px;
+  font-weight: 600;
+  color: var(--ifm-font-color-base);
+}
+
+.mindmap-modal__header-actions {
+  display: flex;
+  align-items: center;
+  gap: 8px;
+}
+
+.mindmap-modal__maximize,
+.mindmap-modal__close {
+  background: none;
+  border: none;
+  color: var(--ifm-color-emphasis-700);
+  cursor: pointer;
+  padding: 6px;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  border-radius: 6px;
+  transition: all 0.2s ease;
+}
+
+.mindmap-modal__maximize:hover,
+.mindmap-modal__close:hover {
+  background: var(--ifm-color-emphasis-200);
+  color: var(--ifm-font-color-base);
+}
+
+/* Modal Content - ReactFlow Container */
+.mindmap-modal__content {
+  flex: 1;
+  position: relative;
+  overflow: hidden;
+  background: var(--ifm-background-color);
+}
+
+.mindmap-modal__content .react-flow {
+  background: var(--ifm-background-color);
+}
+
+.mindmap-modal__content .react-flow__node {
+  cursor: pointer;
+}
+
+.mindmap-modal__content .react-flow__node:hover {
+  filter: brightness(1.1);
+}
+
+.mindmap-modal__content .react-flow__controls {
+  background: var(--ifm-background-surface-color);
+  border: 1px solid var(--ifm-color-emphasis-300);
+  border-radius: 8px;
+  box-shadow: 0 2px 8px rgba(0, 0, 0, 0.1);
+}
+
+.mindmap-modal__content .react-flow__controls-button {
+  background: var(--ifm-background-surface-color);
+  border-bottom: 1px solid var(--ifm-color-emphasis-200);
+  color: var(--ifm-font-color-base);
+}
+
+.mindmap-modal__content .react-flow__controls-button:hover {
+  background: var(--ifm-color-emphasis-100);
+}
+
+.mindmap-modal__content .react-flow__controls-button svg {
+  fill: currentColor;
+}
+
+.mindmap-modal__content .react-flow__minimap {
+  border-radius: 6px;
+}
+
+.mindmap-modal__content .react-flow__attribution {
+  background: transparent;
+  opacity: 0.5;
+  font-size: 10px;
+}
+
+/* Modal Footer */
+.mindmap-modal__footer {
+  display: flex;
+  align-items: center;
+  justify-content: space-between;
+  padding: 16px 24px;
+  border-top: 1px solid var(--ifm-color-emphasis-200);
+  flex-shrink: 0;
+  gap: 16px;
+}
+
+.mindmap-modal__info {
+  display: flex;
+  align-items: center;
+  gap: 16px;
+  flex: 1;
+  flex-wrap: wrap;
+}
+
+.mindmap-modal__node-count {
+  font-size: 13px;
+  font-weight: 500;
+  color: var(--ifm-color-emphasis-700);
+  background: var(--ifm-color-emphasis-100);
+  padding: 4px 10px;
+  border-radius: 4px;
+}
+
+.mindmap-modal__hint {
+  font-size: 12px;
+  color: var(--ifm-color-emphasis-600);
+}
+
+.mindmap-modal__close-btn {
+  padding: 8px 20px;
+  font-size: 14px;
+  font-weight: 500;
+  background: var(--ifm-color-primary);
+  color: white;
+  border: none;
+  border-radius: 6px;
+  cursor: pointer;
+  transition: all 0.2s ease;
+  white-space: nowrap;
+}
+
+.mindmap-modal__close-btn:hover {
+  background: var(--ifm-color-primary-dark);
+  transform: translateY(-1px);
+  box-shadow: 0 4px 12px rgba(90, 103, 216, 0.3);
+}
+
+/* Responsive Adjustments */
+@media (max-width: 768px) {
+  .mindmap-modal {
+    width: 100%;
+    max-width: 100%;
+  }
+
+  .mindmap-modal__header {
+    padding: 16px;
+  }
+
+  .mindmap-modal__title {
+    font-size: 16px;
+  }
+
+  .mindmap-modal__footer {
+    padding: 12px 16px;
+    flex-direction: column;
+    align-items: stretch;
+  }
+
+  .mindmap-modal__info {
+    flex-direction: column;
+    align-items: flex-start;
+    gap: 8px;
+  }
+
+  .mindmap-modal__hint {
+    font-size: 11px;
+  }
+
+  .mindmap-modal__close-btn {
+    width: 100%;
+  }
+}
+
+@media (max-width: 480px) {
+  .mindmap-modal__content .react-flow__controls {
+    bottom: 120px;
+  }
+
+  .mindmap-modal__content .react-flow__minimap {
+    display: none;
+  }
+}
+
+/* Maximized panel mode - expands as a large overlay popup */
+.mindmap-modal--maximized {
+  top: 2vh !important;
+  left: 2.5vw !important;
+  right: 2.5vw !important;
+  bottom: 2vh !important;
+  width: auto !important;
+  max-width: none !important;
+  height: auto !important;
+  max-height: none !important;
+  border: 1px solid var(--ifm-color-emphasis-300) !important;
+  border-radius: 12px !important;
+  box-shadow: 0 20px 60px rgba(0, 0, 0, 0.5) !important;
+}
+
+.mindmap-modal--maximized .mindmap-modal__header {
+  padding: 24px 32px;
+}
+
+.mindmap-modal--maximized .mindmap-modal__footer {
+  padding: 20px 32px;
+}
+
+/* Dark mode adjustments */
+[data-theme='dark'] .mindmap-modal-overlay {
+  background: rgba(0, 0, 0, 0.5);
+}
+
+[data-theme='dark'] .mindmap-modal {
+  background-color: #0a0a0a;
+  border-left-color: #1f1f1f;
+  box-shadow: -4px 0 24px rgba(0, 0, 0, 0.5);
+}
+
+[data-theme='dark'] .mindmap-modal--maximized {
+  border-color: #1f1f1f !important;
+  box-shadow: 0 20px 60px rgba(0, 0, 0, 0.8) !important;
+}
+
+[data-theme='dark'] .mindmap-modal__content .react-flow__controls {
+  box-shadow: 0 2px 8px rgba(0, 0, 0, 0.3);
+}
+
+/* Light mode adjustments */
+[data-theme='light'] .mindmap-modal {
+  background-color: #ffffff;
+  border-left-color: #e5e5e5;
+  box-shadow: -4px 0 24px rgba(0, 0, 0, 0.1);
+}
+
+[data-theme='light'] .mindmap-modal--maximized {
+  border-color: #e5e5e5 !important;
+  box-shadow: 0 20px 60px rgba(0, 0, 0, 0.15) !important;
+}
