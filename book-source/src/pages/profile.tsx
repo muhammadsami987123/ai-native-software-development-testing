@@ -1,4 +1,4 @@
-import React, { useState, useEffect } from 'react';
+import React, { useState, useEffect, useRef } from 'react';
 import Layout from '@theme/Layout';
 import { useSession } from '@/lib/auth-client';
 import { useHistory } from '@docusaurus/router';
@@ -10,6 +10,7 @@ export default function Profile() {
     const [profileImage, setProfileImage] = useState('');
     const [loading, setLoading] = useState(false);
     const [message, setMessage] = useState({ type: '', text: '' });
+    const fileInputRef = useRef<HTMLInputElement>(null);
 
     useEffect(() => {
         if (!session) {
@@ -19,6 +20,17 @@ export default function Profile() {
         setName(session.user?.name || '');
         setProfileImage(session.user?.image || '');
     }, [session, history]);
+
+    const handleFileChange = (e: React.ChangeEvent<HTMLInputElement>) => {
+        const file = e.target.files?.[0];
+        if (file) {
+            const reader = new FileReader();
+            reader.onloadend = () => {
+                setProfileImage(reader.result as string);
+            };
+            reader.readAsDataURL(file);
+        }
+    };
 
     const handleSubmit = async (e: React.FormEvent) => {
         e.preventDefault();
@@ -63,37 +75,84 @@ export default function Profile() {
                     <div className="card__body">
                         <form onSubmit={handleSubmit}>
                             {/* Profile Image Preview */}
-                            <div style={{ textAlign: 'center', marginBottom: '24px' }}>
-                                {profileImage ? (
-                                    <img
-                                        src={profileImage}
-                                        alt="Profile"
-                                        style={{
+                            <div style={{ textAlign: 'center', marginBottom: '24px', position: 'relative' }}>
+                                <div
+                                    style={{
+                                        position: 'relative',
+                                        display: 'inline-block',
+                                        cursor: 'pointer'
+                                    }}
+                                    onClick={() => fileInputRef.current?.click()}
+                                    onMouseEnter={(e) => {
+                                        const overlay = e.currentTarget.querySelector('.image-overlay') as HTMLElement;
+                                        if (overlay) overlay.style.opacity = '1';
+                                    }}
+                                    onMouseLeave={(e) => {
+                                        const overlay = e.currentTarget.querySelector('.image-overlay') as HTMLElement;
+                                        if (overlay) overlay.style.opacity = '0';
+                                    }}
+                                >
+                                    {profileImage ? (
+                                        <img
+                                            src={profileImage}
+                                            alt="Profile"
+                                            style={{
+                                                width: '120px',
+                                                height: '120px',
+                                                borderRadius: '50%',
+                                                objectFit: 'cover',
+                                                border: '4px solid var(--ifm-color-primary)',
+                                                marginBottom: '16px'
+                                            }}
+                                        />
+                                    ) : (
+                                        <div style={{
                                             width: '120px',
                                             height: '120px',
                                             borderRadius: '50%',
-                                            objectFit: 'cover',
-                                            border: '4px solid var(--ifm-color-primary)',
+                                            backgroundColor: 'var(--ifm-color-primary)',
+                                            display: 'inline-flex',
+                                            alignItems: 'center',
+                                            justifyContent: 'center',
+                                            color: '#fff',
+                                            fontWeight: 'bold',
+                                            fontSize: '48px',
                                             marginBottom: '16px'
+                                        }}>
+                                            {name?.charAt(0).toUpperCase() || 'U'}
+                                        </div>
+                                    )}
+
+                                    {/* Overlay */}
+                                    <div
+                                        className="image-overlay"
+                                        style={{
+                                            position: 'absolute',
+                                            top: 0,
+                                            left: 0,
+                                            width: '100%',
+                                            height: '100%', // Adjusted to match image height roughly
+                                            borderRadius: '50%',
+                                            backgroundColor: 'rgba(0,0,0,0.5)',
+                                            display: 'flex',
+                                            alignItems: 'center',
+                                            justifyContent: 'center',
+                                            opacity: 0,
+                                            transition: 'opacity 0.2s',
+                                            color: 'white',
+                                            fontSize: '24px'
                                         }}
-                                    />
-                                ) : (
-                                    <div style={{
-                                        width: '120px',
-                                        height: '120px',
-                                        borderRadius: '50%',
-                                        backgroundColor: 'var(--ifm-color-primary)',
-                                        display: 'inline-flex',
-                                        alignItems: 'center',
-                                        justifyContent: 'center',
-                                        color: '#fff',
-                                        fontWeight: 'bold',
-                                        fontSize: '48px',
-                                        marginBottom: '16px'
-                                    }}>
-                                        {name?.charAt(0).toUpperCase() || 'U'}
+                                    >
+                                        📷
                                     </div>
-                                )}
+                                </div>
+                                <input
+                                    type="file"
+                                    ref={fileInputRef}
+                                    onChange={handleFileChange}
+                                    style={{ display: 'none' }}
+                                    accept="image/*"
+                                />
                             </div>
 
                             {/* Name Field */}
