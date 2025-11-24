@@ -140,7 +140,12 @@ export default function DocItemContent({ children }: Props): ReactNode {
   }) => (
     <button
       onClick={() => setActiveTab(id)}
-      className={clsx('button', {
+      role="tab"
+      aria-selected={activeTab === id}
+      aria-pressed={activeTab === id}
+      data-active={activeTab === id}
+      className={clsx('button', 'doc-tab', {
+        'doc-tab--active': activeTab === id,
         'button--primary': activeTab === id,
         'button--secondary': activeTab !== id,
       })}
@@ -174,7 +179,7 @@ export default function DocItemContent({ children }: Props): ReactNode {
 
       {isChapterPage ? (
         <div className="doc-content-tabs">
-          <div style={{
+          <div role="tablist" aria-label="Document view tabs" style={{
             display: 'flex',
             gap: '16px',
             marginBottom: '24px',

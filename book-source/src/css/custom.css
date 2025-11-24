@@ -800,3 +800,42 @@ input:-webkit-autofill:active {
     -webkit-box-shadow: 0 0 0 30px #252526 inset !important;
     -webkit-text-fill-color: #ffffff !important;
 }
+
+/* ============================================
+   DocItem Tabs - Active state styling (forced at file end)
+   Placed at end to ensure high cascade priority
+   ============================================ */
+
+/* Higher-specificity selectors target the tabs inside the DocItem component */
+.doc-content-tabs .doc-tab {
+    background: transparent !important;
+    color: var(--ifm-color-content) !important;
+    border-radius: 8px !important;
+    padding: 8px 18px !important;
+    transition: background 150ms ease, color 150ms ease, transform 150ms ease !important;
+}
+
+.doc-content-tabs .doc-tab--active,
+.doc-content-tabs .doc-tab[data-active="true"] {
+    /* Strong, high-contrast amber accent for clear visibility */
+    background: linear-gradient(135deg, #ffb703 0%, #fb8500 100%) !important;
+    color: #0b0b0b !important;
+    box-shadow: 0 8px 24px rgba(0,0,0,0.18) !important;
+    transform: translateY(-1px) scale(1.02) !important;
+    border-color: transparent !important;
+}
+
+[data-theme="dark"] .doc-content-tabs .doc-tab--active,
+[data-theme="dark"] .doc-content-tabs .doc-tab[data-active="true"] {
+    /* Dark mode: use a translucent bright accent with clear contrast */
+    background: linear-gradient(135deg, rgba(255,183,3,0.14) 0%, rgba(251,133,0,0.12) 100%) !important;
+    color: #fff5e6 !important;
+    box-shadow: 0 8px 24px rgba(0,0,0,0.36) !important;
+    transform: translateY(-1px) scale(1.02) !important;
+}
+
+.doc-content-tabs .doc-tab:focus {
+    outline: 3px solid rgba(0, 0, 0, 0.08) !important;
+    outline-offset: 2px !important;
+}
+

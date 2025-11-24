@@ -8,6 +8,8 @@ import { chatRouter } from './routes/chat.js';
 import { summaryRouter } from './routes/summary.js';
 import { assessmentRouter } from './routes/assessment.js';
 import { GoogleGenerativeAI } from '@google/generative-ai';
+import { adminRouter } from './routes/admin.js';
+import { userRouter } from './routes/user.js';
 
 const app = express();
 const PORT = process.env.PORT || 3001;
@@ -37,6 +39,8 @@ app.all("/api/auth/*", toNodeHandler(auth));
 app.use('/api/chat', chatRouter);
 app.use('/api/assessment', assessmentRouter);
 app.use('/api/summary', summaryRouter);
+app.use('/api/admin', adminRouter);
+app.use('/api/user', userRouter);
 
 // Check Personalization Completion
 app.get('/api/user/check-personalization', async (req, res) => {
